@@ -1,0 +1,7 @@
+interface:
+  display_name: "Check Flat"
+  short_description: "Track rentals, metro distance, and commute times"
+  default_prompt: "Use $check-flat to inspect these rental-ad links, estimate metro travel, and update flats.md one by one."
+
+policy:
+  allow_implicit_invocation: true
