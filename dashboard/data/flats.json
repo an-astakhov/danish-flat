@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14T08:53:41.225Z",
+  "updatedAt": "2026-08-14T09:06:17.756Z",
   "flats": [
     {
       "id": "boligzonen-4-vaerelses-med-rummelig-stue-i-forbindels-0d89262",
@@ -55,16 +55,128 @@
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/KQZY6a1cxtBHNSQvVBLJ7Pf7_5aztAbh-7Oj1SwgKYg/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMyMC9vcmlnaW5hbC82ZjM3NDk2MzY4NmQ4ZTEwNzM1ZmE2MjZkMWNjYmNmMDEzZDBlZTdi",
           "alt": "Borgm. Jensens Allé, 2100 København, photo 2"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/iZdt-VFtvB4bSoOZpPWeT8WIW9eQN0gbE8T6YaVo9fw/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMyMS9vcmlnaW5hbC8yY2FhNGZhYmExYTQxMmJjMzhhNWVhNzgxNDNhZThmNjhkYmMzODE2",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 3"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/cHvwYJwQPcKfI3Iu_4XpreRdIFt8KPAEdCu2GbnxIus/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMxNS9vcmlnaW5hbC80Y2ZlZmQ5MmI1NDVmNTkxMzRhNGUyMmMyMjhlNmVjMDNjZGY2OTcy",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 4"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/ULK0m_IXAHFLEGYx3edSHQFyHMpzpf9W39NPbZbp29s/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMxNi9vcmlnaW5hbC83ODEwYzRmNThhYzc2NWQ2NWJlMzlmNWM0MzVkYTJkYTAwODEyZDA5",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 5"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/HnGiVquS1PW5_rEOIShcRP66YfdC4Tf-Y06AVh6BAys/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMxNy9vcmlnaW5hbC83NWJlNDQxOTM2YzAyOWM4OTNjYTNkMzYwODEyMjYxMjlmYTA5MGJk",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 6"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/7nt7s5vO1uSRTWdsYOsRo9-fOe2uNGzMCbePHm96zH4/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMyNC9vcmlnaW5hbC9hNzFiMjZhMWRmNzgwZWYwMmNiMzdhZDNmNThkMjE5MTM5ZTMxOWEz",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 7"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/KA-jj-eQYxLORY78FuKJR25vpjIusD57n4QFbrx3z1s/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMyNi9vcmlnaW5hbC82NzZkOWZjZGY4MjFmMTcwMGJiYzRiMzY3Mzk4NmVmOTFhYWU2YzRj",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 8"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/hAm0pKsW9I2vs18cIzAcbbQeYS2OyQGDFFNZKiFW-YM/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMxOC9vcmlnaW5hbC8zODhlOGIyMDBkNzI5MzY4ZjY3MmIyM2U1NjMyZDcxMWZiNzYxMzMy",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 9"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/jiM7BRAmZr6iqrHTFnncedApXHh9PKKGdSEJCDVkmo0/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzM1Mi9vcmlnaW5hbC80NmFiYWQ2YWE0MGY1Yjk4ZjZhNWVmMGU4ZDBiMjE2NGIwY2RmYTU2",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 10"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/jJ_ZnYLjEE8mEakz7JYxv8dTyFL6ElR9je73JMYDh5U/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMyMy9vcmlnaW5hbC80MTc5OTVhMDU0MjRiN2Y0ZjRkYWE4Yjk1YWI1MzlmOThkYzMyNGEz",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 11"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/zzZQpBUwaBV8Rci8XbYFtMg2JP6j-AdzeIeZP47nZEA/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMyNy9vcmlnaW5hbC8xNDdmNzE3NzNjOTk0Mjk1YjY4NjEwYzAwOTc0MWI2YzA1NmM2MzM4",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 12"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/nFblX-LcRT7elhjgKxiFLJoDdPH4-Xb9VNaIzi73IKY/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMzMC9vcmlnaW5hbC9jOGVjMTZiNzIwMTk5YTNmNjY0OWFjZjFlN2VjM2QzNGY1YjM2NDQ5",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 13"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/GnKJ1DwwG8O5jNHpda-knpxw7yIZEq5Pf4AqEgntMHY/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzM1OC9vcmlnaW5hbC9iNjU3NTI0NTlmNDg2MmNjNTAyODdiYWM1YjU5ZjIyNmJkOTllNjgz",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 14"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/Hpl-SC8U4ENGWXgciQi3TbB8H4taX5KlEB9c6jYtxsM/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMzMi9vcmlnaW5hbC9lZWU3MzZiMzA4ZTQ2M2ZhN2YyMzUyOTExZGJjZDZiNTcxYmQ3Y2Vk",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 15"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/k-ydgPl7xrcWgI7spYI1crztEgkAXFb5f54CvzxuZZ8/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMzMS9vcmlnaW5hbC8zNzRkNGZkNzVkYTBiM2RkNmY3MDMyMzk5NjIzYTExOTYzZWMzMjM0",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 16"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/IxbhwWPWzY4a46pnZY2D8Ksm8Z5DqZ4XURnZ71LtQEg/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMzNi9vcmlnaW5hbC82ZGNlNGU2YWM3M2NiZWI5MTE5YzM4ZmYwZmViNjIzYzk3MDJiY2Nk",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 17"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/2mqpos2-KZT99SBcZoEgqheAqaqpCikCsUjlYwnkgcg/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMyOC9vcmlnaW5hbC9lMzgxOTYxYTY0ZTcyNTBiNzNjNjgzYjcwNzllMDdmYzAxY2Y4ZjJl",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 18"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/iGuLJqCz6D_1sQQlKIwSZDwnILbckKoo8mOs9xeLTNU/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMzNC9vcmlnaW5hbC9hM2YxNTYzYWQ4ZjNiNGM3YTM1ODhkYTU4ZDNjZTlhMDFiZTUyOWZh",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 19"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/rPSIw4TUxukeVgap7qYLswm22W0OAd8uUCZekJ-VKCU/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMzNS9vcmlnaW5hbC8zZTViMWQ2YWUwZWVhODVmODQ3Njg2N2JhYjRkM2MyYTgzNDA2ZjVl",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 20"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/WmNty-kIMH3_HrD5dFYavjct7dz7G3N1RuH3nik2DqY/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMyOS9vcmlnaW5hbC85MGZiOGJiMTUxOGE3YjAxNzFjMjIxYjQ0ZWE1MjBlZmEwNGU2MTkz",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 21"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/t0CKvh-w1oGk2-sC8GwLu_4Zt3W17Id2iDWhcfVT2Yo/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzM0Mi9vcmlnaW5hbC82MWIxOTU2YmU4NTZlM2I3ODVkMGE2ZGEyMGViZmNhOWM4OTA2MTkw",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 22"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/GhYpFzpjTXJzw17svVMqqG-UggXKHyxjMcU-zUy_ALw/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzM0NS9vcmlnaW5hbC9iZTE2OTE1ZmY5MjE5OWZkMjNlYzM4OWU0YzRjZjgxZmViNjgzM2M5",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 23"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/HT6K9D5A7g0ntNn0vXDZSyLhWQMP0u8R4tR2_Y_JcPQ/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMzOC9vcmlnaW5hbC9jNTIxZWJhMzc3MTA2ZTNhMGQ0Y2U4NmI0YjU5MWZkZjIzZDdhNzc3",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 24"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/kr0QqBw584mi3G3R1dpaPe9kWvGIA8G9Xm07VPbARN4/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMzOS9vcmlnaW5hbC8zM2U1ZjdjYmI0Yzc1ZTZmNGVkYWQ0NzA3OTY1ZWU3NTY3ZGRhYzEw",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 25"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/5z62C93QjSUxlONiVbRZUmks-LB3FtbQn8MbRwlUfGs/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzM0NC9vcmlnaW5hbC8wMWFhODk5YWY2ZDRkNjdmZGRiMWMxNTM2ZmU5ZDNhOGE0MDYxMTRh",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 26"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/q9KjK1OON8KSHXLJVTpXr5rm7XhEglFGBYncimGDVRE/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzM0My9vcmlnaW5hbC8xOTZlODdiMTdkOGU5NTEwNGNhM2UzY2MxMDY2MDM2MTVjZmRkZTAy",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 27"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/3vcOhSELgAXfp8U7KOK3iK9w49aLHc_wHLeOZDyQ74E/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzM2Ni9vcmlnaW5hbC8zNmM0YTM1MjI1Y2RjMTYwZGYyNTQ3NWEwNDFmM2I1ZWMwY2IxMjIy",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 28"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/zz31LeXDGEyKKu97Z2FlbZqCUnTvqDZhFnNYpe3DmwA/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzM0MS9vcmlnaW5hbC9jYTIxNmJmYWQ5NWUyNjA4NWJmY2MyMGY3ZWUyYmZiOWVhMTIzNzQ2",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 29"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/dVoofqajxh-SyszK7pFezBixF8RRqLQoahi7ZwSMKMU/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzM0Ny9vcmlnaW5hbC9hOTg4N2NlOGM0ODNmMDUwZGE1M2YxMDhjOTJmODBhMjQ5ZmRlOWQx",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 30"
         }
       ],
       "source": {
         "site": "BoligZonen",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -121,16 +233,128 @@
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/UoiBUNey_vumZYJQWYuAKsxppM6yUUQBPbRVCHm4pEY/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk1Ni9vcmlnaW5hbC8xY2VkMjQzYTc3YmQ1Nzc2ZjYxNjA4ZWY3M2ZmMzdmZDI1ZGZmYzRm",
           "alt": "Borgm. Jensens Allé, 2100 København, photo 2"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/mDrCOO4JOD-_K1fXhDiK8Hup93-HJDO9kKF1v5gUERw/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk1NS9vcmlnaW5hbC85M2NiYTk5ZjM0MGUyYmU1YmVhNjQ4YzM1YzhlZDFlZDNkOWI2ZDc5",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 3"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/_OsztH9f801QQeo0DTB79OV4GPDT9vqsfjJ8tIJhCKI/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk1OS9vcmlnaW5hbC9iMGRlMDljNGUyYjlmNTA0ZDI4OWFkNjYyMGI4ZWMyN2RhYjVkN2Fj",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 4"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/g_tgDyb6hTlP8ppYIGAun8am73lAmPQtmlHKa9BO11w/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk1OC9vcmlnaW5hbC85ZTU2YTlhNTE5NTkxMDc1MDdkNTk5NmUzZTNlZThjNTYwNzJmYzMz",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 5"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/W03r_w2YxkTDzaAhL-auwbAk5Emi08RFzHojLdYSLdA/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk3Mi9vcmlnaW5hbC9iOGIwODk5YWQ1ODg5OGNkZTM4NTY5MGQzYzg2NzFiZTZmZDBlZTA0",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 6"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/5S6XiQbXarIo5VtcKkN8eaBkyz5q7K6pq1yXFO5LURU/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk4Mi9vcmlnaW5hbC81ZWU5OWE2ZTYyMjk5MTE4YTJhZDdlZTAxYTY0YzhhOTU3NzI1YzI4",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 7"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/cfm2cwIJplBHhFlpL9gE9-SdRSlbRyTZx_-Vh0MQ16g/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk4My9vcmlnaW5hbC8yY2NiNTEyMThhMGE5OThmMmViZTZhNGM5NTZlN2I5YmIyOWJkYTAx",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 8"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/lGb7QTwoI-DBKgE-0S8lKrEsWlQbJ-O8YoOLSJe03cA/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk2OC9vcmlnaW5hbC9jYjk0NThmZjgwNGI0ZmY2YmEyYTg1MzgzOWM4ZDdkMWIyMDQzZmJi",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 9"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/7DBv3Upn6nODGgqgAaU31xN0rZQh3-R-njv2L_NrXjU/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk3NS9vcmlnaW5hbC80YzUzMTc3NTZkYjFiMTFkMzIyNjUzY2Q1MjE1NTlmYmQ3MTY5NGY1",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 10"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/iKgHho_LG5WAjjeEPZDNlyPN1mzoM0GDFkmdgM60mjI/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk3OS9vcmlnaW5hbC81NTkyN2Q0NmU1ZjlhYzliYzRiNjFhMjBmZTM3NWNiZWUxOTUxZjlm",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 11"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/4QvQ1DSk9BGyf9Sf3-j2wndAiM_AJg6RX3VdkZ8ff8o/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk5My9vcmlnaW5hbC9kNjU5NmY0MjU3ZDM0MzBiNDdhN2U4MzJhZThhNWQ5MmZkOTYwZDdi",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 12"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/ExUj5UsffETXIHpWE-J1IlP8inJ6J-wF9EFvWOjt0mg/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk5Mi9vcmlnaW5hbC83ODJmYzg2ODU1ZmZkNDY4OTc0NDk4MmY0ZmNiMmQwMmNjNmMwYTdi",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 13"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/AnvP-kI8sTX_MG1iAhl-Gh1v69zQTn-9yjKM-3IuRW8/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk4OS9vcmlnaW5hbC85MjMwYTcyZDBjZTkyNzcwZDcxYTk0MDkyNDlmZDA1YmEyZTRlMTBh",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 14"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/wDT4OraeZcUUEHqG5gMrKKnIiw5deJGuxQD0BdsGhSM/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk5Ny9vcmlnaW5hbC80MzBkZGUwMjBlNDcyMTBkZDEwNDhmNGRmNjM3MGQ4ODU3ZmQ0MzU0",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 15"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/noGW7bMMuKF9z2uKRmOMgzUy-9QALzbo7d9yi-G7b-c/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk5NS9vcmlnaW5hbC81OWFkMTFlZDUzZjQzNWU1MGMzOTY5MzdkNjkyMGEwNzNkMDkyN2Fm",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 16"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/aGIqo-b9lx_2XDm-VRFZVov3Kjig0z8_DsrlgqJ--t4/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk5OC9vcmlnaW5hbC82ODk1NzRhNmU1MmUyNWExYWRiNjAyZjVhNTZkYjdjM2Y2YjZkYmI2",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 17"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/NiE6JzdN2RKIllItpMxxCFd5JVOm347DOt1DEHYni58/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIyLzAxMi9vcmlnaW5hbC9kZWMyMDVmZTgyNTg4OTNmOTg3OTg2ZTY3ZjFmOWZmZDNhNTY4OGU2",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 18"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/uBasQn93TfCjgsFcdeq_aU2RK-cAThou0FRllMGxoow/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIyLzAwOC9vcmlnaW5hbC9iYjAxMWVjNjk2YTVjMWFjM2IwYWU3OTRjMmNlMWZlYWI2Y2Y3MDQ5",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 19"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/xNWF3W_OaRp5i6KzZ_AiFvtBiSK4AAxavnJG_8VBb3w/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIyLzAxNi9vcmlnaW5hbC9lZGM4ZDlmNzJhOTc4OGIzMTcyYTg0N2Q4NjRkMjJiZDVlZWZmMjQ4",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 20"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/WJc6ts1Ua4YhBANj7Ipe3pA7jSoYDS3ok1bDP4rz__s/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIyLzAxMC9vcmlnaW5hbC84NTE4OTFjM2U2YjBjN2FlYjNiNzg2ZWFlN2YzMDY4MDIzYzJlMDMz",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 21"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/wc2nTMHh_hnykSh6VUmEK_HC5aOk1rFcRK1KKk5KfXU/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIyLzAyMS9vcmlnaW5hbC81MzIxOTJlNGI1Y2QxN2JkZmQzZTY5ZTdmZTNhMDZhNzI0YzNiMzhm",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 22"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/4uI1B5mgbAu2vxxPUCXimB3-d1XQL7hcT3WJmFFOxR4/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIyLzAyOS9vcmlnaW5hbC84YTUxMGE4MWFkMTcxODljOTViNTcwYjc0M2Q1MTdhOWM3ODY3NDZk",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 23"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/M_PSS_Q02VUPW1iTJxyq6eP4ClNocG4jX052N44jN24/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIyLzAxNy9vcmlnaW5hbC8zZWZhZWJmNmMxMzNkNjdmYjA4ZTIyMTIzZTdhYjM0MWY3OGJhY2E1",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 24"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/p7Y2AA5GkNLPqcxhEVGepeuLeIztJAzCaYwD9O8Ddco/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIyLzAyMC9vcmlnaW5hbC9iMDNjOTcxNDkwMDA3MzY3MGU5ZDQ4YjQ3N2I3OWY2NzE0NWQ0Njdh",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 25"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/au-W-LhWFw_CmQ3j4u3-dkD4ebq8fUdq44IuXdM4jyI/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIyLzAyNy9vcmlnaW5hbC80OGE0YzVkYzljYThmZTA2YTljOWU2OThlOTU3YjM5ZTEzN2UyOGEz",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 26"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/lGDG2ASmcyBmMxQVVQlA37AwMJy3FkkfIci_CSJ7UY0/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIyLzAyMy9vcmlnaW5hbC83ZDkwY2FjZDU1OGIzZDc4NzlhYzY3YmNhMWQ4MzM2NzI0MDM1OWMy",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 27"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/ckff05Og9rby0wXnHhin1eGReggOzKBDHll7fJHmuVE/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIyLzAzMS9vcmlnaW5hbC8zNTY4ZTUwMzc1NTEzMzk4OTIzZTdiZWM0NTg4ZmVkMmYwM2E2Nzgz",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 28"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/1QOVnGoYMNDb-JeouhFBiwoJdHwuGsoNqMLfDQrVARI/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIyLzAzMy9vcmlnaW5hbC9mZmViY2Q3NTFlMzZhMDZmY2RjNTVhYWJmYzI5NjIyZWI5Njc1N2Qz",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 29"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/8VX_ojp7ulf-2AY0IIUDIWFx9CITJAga8y3cxcFpW34/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIyLzAyNC9vcmlnaW5hbC83MzkyYjY5OWVlYjY3MjgzYzA3MTRmOTI1YmNiYjdmMzdmZjk0NThi",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 30"
         }
       ],
       "source": {
         "site": "BoligZonen",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -181,22 +405,70 @@
       "noteAi": "Shareable and suitable for families; pets permitted on application; show-flat photos and view may vary; an open house is scheduled for 2026-08-16, 13:30–13:45.",
       "photos": [
         {
-          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzMjMxLCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/ff7d4e95a9059afff54eaa68b4ea9bab/imageSize/Assets/inline/True?w=1920&quality=80",
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzMjMxLCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/ff7d4e95a9059afff54eaa68b4ea9bab/imageSize/Assets/inline/True?w=400&quality=80",
           "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 1"
         },
         {
-          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzMjI3LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/94fc8a7eb5014e2ace75f29fe0166832/imageSize/Assets/inline/True?width=1982&quality=80",
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzMjI3LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/94fc8a7eb5014e2ace75f29fe0166832/imageSize/Assets/inline/True?w=400&quality=80",
           "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 2"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzMjI4LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/738c576c29859c34ed4bb8344c5a5ae4/imageSize/Assets/inline/True?w=400&quality=80",
+          "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 3"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzMjI5LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/06690338d0f015e8d77432e10676015c/imageSize/Assets/inline/True?w=400&quality=80",
+          "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 4"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzOTEzLCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/b84d35cfd8e7158f7799ebb0e5c3da63/imageSize/Assets/inline/True?w=1984&quality=80",
+          "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 5"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzOTE4LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/c99c07d986247a30d51edff4a711a451/imageSize/Assets/inline/True?w=1984&quality=80",
+          "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 6"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzOTE0LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/bc76aa37b3bbd8bc1814968689398f7c/imageSize/Assets/inline/True?w=1984&quality=80",
+          "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 7"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzOTE3LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/aa120616da7da6345448f55664481dda/imageSize/Assets/inline/True?w=1984&quality=80",
+          "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 8"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzOTA3LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/45aadd05982520ab3e32b6577811e93a/imageSize/Assets/inline/True?w=1984&quality=80",
+          "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 9"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzODk5LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/ec3b9ed5d465c39ad8707a20b39b5f2f/imageSize/Assets/inline/True?w=1984&quality=80",
+          "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 10"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzOTAwLCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/5c411f4d92ab11f4d6e49b2651a27575/imageSize/Assets/inline/True?w=1984&quality=80",
+          "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 11"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzOTAzLCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/beb92caee7cf2f9b6bb6e8e415ac8c63/imageSize/Assets/inline/True?w=1984&quality=80",
+          "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 12"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzOTA2LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/bad9cbab894da5851a4c31e5ae3dbf3c/imageSize/Assets/inline/True?w=1984&quality=80",
+          "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 13"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzUyOTgxLCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/a674a704dab80cc95496a7d810d7df33/imageSize/Assets/inline/True?w=1984&quality=80",
+          "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 14"
         }
       ],
       "source": {
         "site": "home",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -253,16 +525,84 @@
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/hx8rVJF0GJFjH7DTZKr7GoCUGiUu9_lC5XGBfqaAk0I/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg1MS9vcmlnaW5hbC8xMmIwNGE3YWY5OTNjNDNmODA4NmZlNWU1YTMxNDE0OGQ3ZDE2MDI4",
           "alt": "Klaksvigsgade, 2300 København, photo 2"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/8MRbwWmibSIcrc-ALeASVUMc4Y7xyka8EwPvLjEHFtc/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg1NC9vcmlnaW5hbC8wZGM3ZmUwMWNmN2M4OGUzYjBmYTM0YWJhZWNhYzE5NmM5NjViMTAy",
+          "alt": "Klaksvigsgade, 2300 København, photo 3"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/5_E0U4XPr2nDuuuoEthqnVx4Kbv8is8HnMux1J27c8s/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg1My9vcmlnaW5hbC80ODg0OTJhNmU0YzBlMmI5YmEyM2Y0OGU1MmY1Y2U0YmU0NmQ3NDBh",
+          "alt": "Klaksvigsgade, 2300 København, photo 4"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/VtPtmxfCj45hyRfCecle_yUcpRMwCiMuoTnnf41G0-c/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg1OC9vcmlnaW5hbC85ZDQ1OTJiYWZlNDMwZGM5ZjdmNDhiMzc3Y2UxZmRkY2EzOWY2NGUz",
+          "alt": "Klaksvigsgade, 2300 København, photo 5"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/b7xeWXAm-QT2g5mK_j_7AfQOObXJNAnulofyzrKAyI8/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg1Ny9vcmlnaW5hbC81YTRkMWU3NTNiOWJjMGViOGVkZGNjZmZjZmY4OWI2YWM4OWQ0NWNi",
+          "alt": "Klaksvigsgade, 2300 København, photo 6"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/S0M83cm5vrY_aVgnouHrhrbaHD5PCvypdGNZnBq7CDg/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg2Mi9vcmlnaW5hbC84ZjY4M2FkNTE1MGQwMzEyYmEyZDBlNTcxOWIxNTNlODZmOWJlMmI1",
+          "alt": "Klaksvigsgade, 2300 København, photo 7"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/LC5TiCYye5UZYLCXQsAZe4gr2jceEKHfXd4PgrX97mE/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg2NC9vcmlnaW5hbC9iMzU3ZGYwNmZkMGZkY2E0MTI0NDY5M2Q5YzM5YWVhNjM3MzNkOWMx",
+          "alt": "Klaksvigsgade, 2300 København, photo 8"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/lHsS-p3rlT_K_2S3xnmxz7ZfaGSoON2D5rPfG3LYUJw/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg2NS9vcmlnaW5hbC9iYzgzNGZmZTRmZDNkOGY2OTE1ZGEzYTcyMzY3ZDgyOTJiNzQyMzI2",
+          "alt": "Klaksvigsgade, 2300 København, photo 9"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/bZJKWmQobp__qmdukuq25_0O6J3fKkAITxYtw6772_o/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg2Ni9vcmlnaW5hbC82NmVhYTU5ZTJhMWNkNmY2N2Y1ZDU2MjBkZDgxNjRmNjU4MGQ2Mzhl",
+          "alt": "Klaksvigsgade, 2300 København, photo 10"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/CZ6vDiYTHzOpOMuBj7oHCKbqlna9Io_-sOANnbFt2aw/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg2Ny9vcmlnaW5hbC9iYTA4NzdiZmQ3MWVhMjA0MzRkZTg1ODEzN2IxZDc1YTk4NGY0NGNk",
+          "alt": "Klaksvigsgade, 2300 København, photo 11"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/p-Fkhh9jjJTdPAKOSlM6PWY5PUpPQkOTeri2V2DDpQs/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg3MC9vcmlnaW5hbC8yNjAwODI5ZjA3ODEyZmRmMmMwNDY4YzRhOGI0NDdlMTVlN2Q1MDE3",
+          "alt": "Klaksvigsgade, 2300 København, photo 12"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/MjcTaLToh5algyhUZ-OCycV7nUC2N0dHPhA6Gpb6cFc/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg3NC9vcmlnaW5hbC8xYWU2NzMxOWMxNmUyYWEwODRmMTg2ZWNhZmQ0ZGRjMDc1MWU5ZjFh",
+          "alt": "Klaksvigsgade, 2300 København, photo 13"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/pNuTGajDIOSfJ6ygcAE0OD2WwU99Ys_VR909ApeO4sI/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg2OC9vcmlnaW5hbC9lOGY5NjUzMDNmZjQzYzAxYTQ3ODc0Y2ZjYWJlMmI5NjdkMDk3YjZj",
+          "alt": "Klaksvigsgade, 2300 København, photo 14"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/TSBTt4EmN16xlZXQmzzdm0Ch85MlgAuHr6EVOExUJFc/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg3Mi9vcmlnaW5hbC9kNDlhODg3OGE0MmRhNTAzMTFiNTQ4MGU0MWI4MzAzMTQzYjViMjQ3",
+          "alt": "Klaksvigsgade, 2300 København, photo 15"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/EZGapl1uSvreP4FlikQSAvS3mYt0mt1TtOrmq5U8itw/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg2OS9vcmlnaW5hbC9jYjRjM2I1YzE3NzU0MzIxZjdiNDkwY2UwZDRmMzYyODdjOGUwNjg1",
+          "alt": "Klaksvigsgade, 2300 København, photo 16"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/GudB_iMotpZt2QdQf2mddmtVoKN9JPYe_nPd9Tq58F4/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg4MC9vcmlnaW5hbC82ZTAxNzZlNTU4NGU4MDc3MDgzNGMyYWExMjk3ZjNjMjllMWQxNGU2",
+          "alt": "Klaksvigsgade, 2300 København, photo 17"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/HSxuPbJ4zkd3-0rrarwDrUw1G6_yEUOQnXAlSjXrRBI/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg4Ni9vcmlnaW5hbC9mZGU0NDRmNjcyM2Y2NjdiYTIxMGIzZTAzOTUxNDFmYTMwNTEwMDQ5",
+          "alt": "Klaksvigsgade, 2300 København, photo 18"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/xNsWHHg-4jb6gmzLmiy9ry-PsG77-tZrkKHjtv8qEX4/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg3NS9vcmlnaW5hbC8xMDc1MjcyNGE3MzQyNTY1MjFmMDYxNWEzNjVkYzcxYjUzODUyNjhh",
+          "alt": "Klaksvigsgade, 2300 København, photo 19"
         }
       ],
       "source": {
         "site": "BoligZonen",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "1st floor",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -319,16 +659,96 @@
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/8n2QtNzFuurdvtnrr0g8sBuqNrIOc8GzUhDn9m7efR4/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY4NC9vcmlnaW5hbC84OWQ1MTYyOTE0Y2Y3OTViNDQwOTgwMWQ3OGIwZWYyOTUyZjhlZmU3",
           "alt": "Jens Otto Krags Gade, 2300 København, photo 2"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/22aS3hUJ-ApqwAnbAda5nPadIra51HoVuMUnSB5ieck/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY5NC9vcmlnaW5hbC8xMjdlYWFjYjNjZDQ0OTA4NzAwN2FhOWNiZmZkNGY3ZWMxZjA1YmQ0",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 3"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/ZX4lTP4ojApA2Ej_bt2yXv3MoBXlQ9aQq7MxQDbdSwQ/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY4Mi9vcmlnaW5hbC82NmJlNDJjZmZlNzU5NGNkZGJmNDBiMDhkNzYyN2ZiNGM4M2ZmNmYy",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 4"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/rsyRUsx3I_SOq1m0ZdnU_jMxLAzY3OXoJIuEB0fPiy8/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY4Ny9vcmlnaW5hbC84YzU3MWE3NjVjMTUzZjQxNmU1NWJkZWRiNDdhYmJkM2Y5N2ZiNzA5",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 5"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/0mUWi1NzrKObJHL2WDF1l4LAUwJyS5OiMWopfUttfKo/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY4OS9vcmlnaW5hbC8wOWE3NDE5YWIzZDQ1Zjc4NDVmMzJlYWU3MmQ0ZWVkZDFiZDU3NTU1",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 6"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/uKkqTuzIg-pjjR9GgSFZZOCex7TwMPKCiuOrCYNcj20/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY5MC9vcmlnaW5hbC83YzE2NWRiZDc5YWM1YTE1NTMwOWJiZDZjYzEyZmE3OTBiZWRhNDVm",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 7"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/Epgi3l9VO3ACRvIrC9Qmni_xwVsKNr-f6yFqzN5QeD8/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY4NS9vcmlnaW5hbC9mZDlhZTRlMTJkMzQwZWJlNDE4YjIzZjg3NzZlY2VhODNhYThhNWUz",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 8"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/xqDwXl3Fzd3_6zVFEfGbuqKzQvBGAEWn7KeTCXc46zc/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY5Ni9vcmlnaW5hbC9mNTAzMmY0OWJmNTg0MWMyMjUzY2VjZjNjMDg2YmQ1MGE2ZmZhYTVm",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 9"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/Z7btoaweOWk0jKWn9eVeaVf0YtU63LJHE7Oi2l-M1cc/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY5Mi9vcmlnaW5hbC81NTYxMTRlZDNmYzk3YTMwODQzMDc2NjMzMzY3OWVhNGIzNTY0MzVi",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 10"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/5La9Nf6X2cCB9fsTN8eCjVqeEsZ1rsTu6woF1Ro_60w/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY4OC9vcmlnaW5hbC8xYjFkMWJmYzA1Yzc0NDFjNTAxODFiNjY5NTkzNWJlNzNkNWM1NzI4",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 11"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/fpDcFfUleSsjZx_DKGwgRrWCh094n08NEWFDAPOHfvw/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY5Ny9vcmlnaW5hbC9kZjQzMTliMTEzN2MzODY3ODZhMGI0ZTZmNDFiMDAzZDFiZmM0Mzk3",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 12"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/k751LosNLmn3JTHHsviydWtk999MHrbM9m9dq5deHBQ/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY4Ni9vcmlnaW5hbC82MjM4MjVhNTdiM2ZmNmRkN2Q4OGUzMDE3YjllNzFmMzQxODQ2ZmRl",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 13"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/VCy1dsGAuSmVPyTNOUeYqMkujW7oEJwncdtMYp9qj28/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY5MS9vcmlnaW5hbC82ZDAyNTVjZmY0OTAyMGE2ZDNiNTg0N2JkZDlhOWU4MTA0ZjgzMDA4",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 14"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/3oh99RzQS955_S010zMAMp6u3NO3pNvXZZbGDIB9SKU/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY5NS9vcmlnaW5hbC85ZDkwOTBmZTVmNzI5MTQ5MGEyOGJmMmM3Y2UyYTYzMzYzOGNmZjlj",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 15"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/aF3NP4zM2X82kBgabTnrFCnulHGiaGXOyKaEQX3suH4/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY5OC9vcmlnaW5hbC9kZWViN2ZmM2ZmYmRiNmM2OTM2YzNkNDQ0MWMyN2IwZTlkMWQxMmEz",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 16"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/z37nofigyhpsNQI026koUgvrwQVFh5qcfOiu93s5TY0/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzcwMC9vcmlnaW5hbC80OGJiODkyNTVjNWZiOTg1ODI4NWUyMGMzZTYyZDhlNDQ5MjUzZmRk",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 17"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/Aucox1HlMlwDdUq8x7xUyUzFlub0v__6BUjb4Gng1EU/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY5My9vcmlnaW5hbC85NDg3MTZhYzljYTEyNTFkZmYyNWYyZDgyZjlhMzE5ZTIzZmZiOGUz",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 18"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/k3UGTM-urlEwZN4UZep7J-_XWoPM9kUo0TY0OTzGBz8/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzcwMS9vcmlnaW5hbC9kZTMyN2MyNmRhYjk0YjdlZDNhZjdhMjM3MWJlODU0ZTc5OTVlNjEw",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 19"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/HfqCEATZGwOxdFq-Vj6IJ0ggUDBtBFpo1_HNk7uD7Yw/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzcwMi9vcmlnaW5hbC9mNWYyNmQ2ZWViYmIwNWFhNTdlMDkxZDg4ZWUxYmFhOWMyNzU2NjZm",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 20"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/nOtU3Ly_jlnI3hqy1a1rRxzTc0mQW1EshL9zBkaTegQ/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY5OS9vcmlnaW5hbC83N2RkY2I5NjllMzExNjBhN2VlMjUxNWI3YzI5MDI3NTdhOTU5MTU2",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 21"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/xxqJmmrUV35LJPxQ2hXj6b2UxcTOqJhGG9GM6ZLujtg/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzcwMy9vcmlnaW5hbC9jZDUwYzdiNDQ2NWNkZDEwNGE1ZmU3YTEyZmQ3NmZmMjhiYzkyMWI1",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 22"
         }
       ],
       "source": {
         "site": "BoligZonen",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -381,16 +801,72 @@
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/9e85ishuqhUOWS78-NtaZbV7S3wfLLxokFV5TzQVXXM/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU1NS9vcmlnaW5hbC9mYjMyMzNiOWJhZDZmNWY0MWM4MDA5ODEyMjY1MzI4ZGMzMGJkMGVk",
           "alt": "Alliancevej, 2450 København, photo 2"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/lSjkd5ts0osmRAPkj0P453ILmV8obMsiTbcZBxpmI4g/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU2MC9vcmlnaW5hbC8yZDE0ZTdiNDI0ODRhN2JmOTc4Y2ZlZDg2MWYwZWE0MGZmNzZlYjIx",
+          "alt": "Alliancevej, 2450 København, photo 3"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/LEvgpyw-gE-LTc1AX51v-t8Fa9ws3eJa5aNBNQog68A/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU2Mi9vcmlnaW5hbC9jOWUzMzZjYzVjNzU2MjlmMWFjYjNkZGYwMTEzYzc3ZDA3NmI5ODkw",
+          "alt": "Alliancevej, 2450 København, photo 4"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/LlhziaXxom5zExaOBoClIeZHEmlWYgxW9A6QuiTeUP8/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU1Mi9vcmlnaW5hbC83NDZmZjQ4NWNlY2NkNTRmNzBkZTdkMWY4NWQzOTA5NjhiOWM3MWUx",
+          "alt": "Alliancevej, 2450 København, photo 5"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/Hn_T8mqld94FnUdRAa6C8Khogq9s4z0Uuf10Ipx5zvs/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU1My9vcmlnaW5hbC83MDdjYTNmOWZkMjg1YmY4YjJkODYxODgzZDliM2M2MWY2NmZjZWRl",
+          "alt": "Alliancevej, 2450 København, photo 6"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/-syYqiLz4HD8_dY2Y0c7HOfX-9PPUBc7FhF7ZaWrXtM/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU2NC9vcmlnaW5hbC9lZDE2NjBlOThlYjBmNTY2NjljYmNjZGQ5MGNmMDk4YTNjYWU1YzY2",
+          "alt": "Alliancevej, 2450 København, photo 7"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/s-3sdMu7K7hGhN7cLRy0oN32-Iw6GiJjLgp_QLVjMRE/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU1OC9vcmlnaW5hbC8yNzhiZjYzODQ3ZGRlYWJjMmJhMWIwNGM1NjdkMDA5NGVhMzY2MGQz",
+          "alt": "Alliancevej, 2450 København, photo 8"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/KNwJYaDQhaX0rlCDWhJRF0rNtMIUBZddLQLPxm2peAc/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU1Ni9vcmlnaW5hbC81YzhhNzdkOGZjOTBiYmJkM2FiNTlhODI1NzM4YmMwZmUzMjZkY2Ix",
+          "alt": "Alliancevej, 2450 København, photo 9"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/PRl7OxuSr2J3_Ne1ak1iCtgr5frt9aUNBU35sO1OYK8/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU1NC9vcmlnaW5hbC9hNjRiOTk2OWJmMDJmZWZiNmM2MDg5NzEzNDdjNjE4ZGYzYjE2MGQw",
+          "alt": "Alliancevej, 2450 København, photo 10"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/xOvEAa-KV_HG72CC3k6E2ay-FK5BwBoiJ6XT5mI3WHc/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU1Ny9vcmlnaW5hbC9jYzEzNDk0MThhNWNhN2QyMDUwN2ZiY2UxZDU3YTAzYzY4MjVmNWQy",
+          "alt": "Alliancevej, 2450 København, photo 11"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/wW97ji2XaGM7c_edwflVGJLXRZ98yRqmyGUiL4Gvd4I/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU2MS9vcmlnaW5hbC81NDliNDkzMDUyNGVmMDBiZDJhZGM5NzlkYmU5OTVlYmIzYmMzMmQ5",
+          "alt": "Alliancevej, 2450 København, photo 12"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/jT3unnSCHYAEv_h774MFhpiiTdqAl-rGmFCR1r-CgF0/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU1MS9vcmlnaW5hbC84MzMzYTUzYTA1YTc0ODUzY2RiNzQyNGI2YTY3Y2FiNGY1ZmFiNzVl",
+          "alt": "Alliancevej, 2450 København, photo 13"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/MpPCmVZQYUMkzrOpJ52cZQuXKHKPSHkGZE3l_Xjj700/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU2My9vcmlnaW5hbC85ODEyOGMwNTU4ZTBhNmNiNzVjOTllN2M5Njk5YWI4Njc3MzZmYTUw",
+          "alt": "Alliancevej, 2450 København, photo 14"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/P0bnVDVb5Yo8Dn1h5yaFk5DtnJcpxVvp3pLhL8os2n4/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU2Ni9vcmlnaW5hbC82YzVlM2YzMTM4Y2Q2YWQ1YTU1YmIxZTBjNjlhMTllZWRkNzhkMzVk",
+          "alt": "Alliancevej, 2450 København, photo 15"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/NAkSC9aVB3RD6Hkzc3LmjpgiNapIP7DF7UYHjA9HWpU/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU2NS9vcmlnaW5hbC8wMTVhMGI0MjFhYmJhNTNlNzkyNzUxYmZmNTg2NWRhYzlmMTI4ODll",
+          "alt": "Alliancevej, 2450 København, photo 16"
         }
       ],
       "source": {
         "site": "BoligZonen",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "This one is Sept 1st, so probably no?",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -440,15 +916,20 @@
       "status": "",
       "note": "expensive, 2 floors",
       "noteAi": "Unfurnished and not shareable; pets are not allowed; viewing request is required before the landlord may invite you; photos are of a similar flat and rent may be adjusted.",
-      "photos": [],
+      "photos": [
+        {
+          "url": "https://www.findbolig.nu/data/media/0b1dca51-5974-4060-89c1-c8c9c175d2e1/o_1gf3gd8vfq97o7g1ojq1jr51db014.jpg",
+          "alt": "Theodore Roosevelts Vej 7, st. th, 2450 København SV, photo 1"
+        }
+      ],
       "source": {
         "site": "FindBolig",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "expensive, 2 floors",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -507,16 +988,80 @@
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/d_4D3R15V8rnBRCGBf82JCiRJMVvxLwzhM3CyV4KZT8/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ0My9vcmlnaW5hbC8xNzIyOTM4NjQ1YzhlOTljZGQ0MjFmYjNjZGI4MWYzNmYwYjMwNWU5",
           "alt": "Weidekampsgade, 2300 København, photo 2"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/QV-lveqnwb-l_VBGLtIRW7Udb9G90V9jMhZ5nQjKkIY/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ1MS9vcmlnaW5hbC8zZDBjNDZkYzRkMDQ5MzhkNDFiMDE5YjFkYWFkYzk3ODVhNWMxYzlh",
+          "alt": "Weidekampsgade, 2300 København, photo 3"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/QXh04EWNBwYZHNfrBAK9UACYJvh-kvfLrYHdnK_3K84/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ1My9vcmlnaW5hbC84YzBlNmJmZDI2MGI4ZDYxOTI0MjllOGI4NmJiZmFjMTJlNTc4MGRh",
+          "alt": "Weidekampsgade, 2300 København, photo 4"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/wFy4vRgSK6Xi26lkZMTO_F--RBxi1yyfLhzwctZ2p3U/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ0OS9vcmlnaW5hbC9mZDdhMjM2NWUzZDExM2MwMWM5YTliZTFjODBmMzdmOTZiMDM1ZDhj",
+          "alt": "Weidekampsgade, 2300 København, photo 5"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/vvcdK7-N3d5_udyjhaWCZswsphXSqLzJ2DP49hGpjiY/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ1Mi9vcmlnaW5hbC8wNTQ5MzZlOTk1YzVhNTI5ZGU4YzNkMDQ4MGY0N2I4ZGVjMDRjZTZl",
+          "alt": "Weidekampsgade, 2300 København, photo 6"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/L1nG89ctRWeOOXYRAuUJmX-9EJgXZKb69o7XLREyPr0/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ0NS9vcmlnaW5hbC9hYjc4NGQ2OGU4MTE5Mjk4MDlmY2NlN2NmMzFmMWVhMjY3ODg2ZDEw",
+          "alt": "Weidekampsgade, 2300 København, photo 7"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/hgR3WE-W7hLt7IejFN7Cw8Mo-B-lVOS1XIxNp-0Daoo/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ1NS9vcmlnaW5hbC9jZGVlNjZiYWU0ZDNlMDQ4YmQ2NmQ1NTVkMzU0YjhmNWM1NDYzODgz",
+          "alt": "Weidekampsgade, 2300 København, photo 8"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/M1OeXIoFmpK8QRd1HKJxnU65X10RtSKHDqQvzPHsoaw/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ0NC9vcmlnaW5hbC84N2E2NGQ2ZDNmN2M5MTI2Y2IwZGY4ODliZGI2OGJhZDc1ZjEwYmVh",
+          "alt": "Weidekampsgade, 2300 København, photo 9"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/46BUlu6S-iWa1SSIWrGYlavSYfuSNhyO1RlWeEHZEdw/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ1NC9vcmlnaW5hbC80ZjMzM2RkMDcyOGRmODEwNGUzN2YxNGFmODUxN2M0ZDRkOTUzODBm",
+          "alt": "Weidekampsgade, 2300 København, photo 10"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/rQV2RYSKAtXAJJby_7V3Fc7t58f4YRIuye_bOogSS4k/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ1MC9vcmlnaW5hbC9jZDVlYzI2OTFjOTg5M2UxMTcyYWJjYjBkYTg5MTJkYTE1YTEyODEy",
+          "alt": "Weidekampsgade, 2300 København, photo 11"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/xJ6pmigZsY_lnwWIJprO5OhhvjeDwzEFL5F4NlNBUYA/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ0Ny9vcmlnaW5hbC9lYTZjMThlZWY3ZWU3NWVlOWI2YTk1OTViNTgyMjI0MzEzN2Y1MDgy",
+          "alt": "Weidekampsgade, 2300 København, photo 12"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/5b9yfZBdCXsN4WFe0hxcPxNe1l9EPHkxMrg7UfjyMKI/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ0Mi9vcmlnaW5hbC81MmVjZDEyODdiOGZjYTUxZThhYzczOWQ3YjhkOGIzYjQ4NDRkNDQy",
+          "alt": "Weidekampsgade, 2300 København, photo 13"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/nDe1YILsiC3ESXjsx9I-jZ41yIxfNM7mNxHsIEWlexE/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ0OC9vcmlnaW5hbC9mYzQ3Y2VmZThlNGYyZTgxNmI0N2JjNTQxYTM2YjczMjE0OGY1MTk5",
+          "alt": "Weidekampsgade, 2300 København, photo 14"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/ixpLN4LMWZkaE6-f8CzoOAZBmwgF-VR3-tzQPK2RPw8/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ1Ni9vcmlnaW5hbC9jYjdhNTNhOTg5NjdiMWM2NjAzMTkxOTVkM2JhMWVhMWJjNzMwZmQ0",
+          "alt": "Weidekampsgade, 2300 København, photo 15"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/D6L3nsgNbBRZUCKomL9ItJ3_O2zCDBZusuZEXZEpJD4/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ2NS9vcmlnaW5hbC9kNWIyOTc5NmJmZDViYzQ5N2IwZDIzZWI4ZWI2N2I5N2IyMjI2MDll",
+          "alt": "Weidekampsgade, 2300 København, photo 16"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/u0Z7S8RR0uIU5nE7g8gw6dRv_xl_GaduidKH1lMHI4g/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ2NC9vcmlnaW5hbC9hNDMwNDNlNWE5YzI2MzA5MTdmNTg0MDY5NDVkOTFkZDQwYzQzMDYy",
+          "alt": "Weidekampsgade, 2300 København, photo 17"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/EGR5YdnBiZ61C23rFhmb9eHQZukprNfGl2gYd2hTGIY/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ2MC9vcmlnaW5hbC8xNDk1NjcwM2ZiYTUzMTU4NjUzMWVlOWEyZTg4ZGFlYWQ0ZjJiMzEy",
+          "alt": "Weidekampsgade, 2300 København, photo 18"
         }
       ],
       "source": {
         "site": "BoligZonen",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -573,16 +1118,28 @@
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/JN6TOFMXcxWu_Edk5AJpPoNxTq_LniPhA6JDrQpZVG8/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvMzM3LzIyNC9vcmlnaW5hbC83YWZjYmQzMjFlYmI0YTMzZTliMDJjMjVkZTYwYjJkMGU4ODk5NWJh",
           "alt": "Etta Camerons Vej, 2450 København, photo 2"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/DU3hK3xHj1YaFVLNJ4o4HAhl0kEvdrsP8LewgzmYLLs/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvMzM3LzIxOS9vcmlnaW5hbC83NDRiNTk5YjdlMzE3NzM3ZWM3NWQ0MWMxMGE1ZTgzNzhmZGJjNDAy",
+          "alt": "Etta Camerons Vej, 2450 København, photo 3"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/45Xhznutz0AkVlvyYgIe8d5k_OUZSH9rTyU5FqjGgrU/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvMzM3LzMwNy9vcmlnaW5hbC9jMTdjNDU5OTljYjAzZGIwMTc1ZWNjODliZmY4YTFjNzRhMTJlMDkz",
+          "alt": "Etta Camerons Vej, 2450 København, photo 4"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/XJ4YGLLzR8iJfsn6GKdE7n44CKXUJ2SAux0Vx2zAwgc/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvMzM3LzIxOC9vcmlnaW5hbC8zMDYxMDIzYjA5MWE2YmJkNDA1NTJhNTU3YmI2NWRiOWEwZGJmNmNl",
+          "alt": "Etta Camerons Vej, 2450 København, photo 5"
         }
       ],
       "source": {
         "site": "BoligZonen",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -639,16 +1196,104 @@
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/QY0wS0xOSoE1NQGBDbGb6l0V4C4BKsjffEUMEaADl6g/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI3MS9vcmlnaW5hbC8zNmQ2Y2Q3ZDdmOTE1MWRjYTQ4NGIxOWEwM2E0MmI3Yzc5YzQzNjI5",
           "alt": "Pladehals Allé, 2450 København, photo 2"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/MIxCzVl9c2kTkCF_dp2NDWQy8RgWKtfnAE5dv2JZpvY/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI2NC9vcmlnaW5hbC84ZGRkZDNiYTU5ZTM2OTEzODFjZWExYTRlMzk5ZDAzNGZhZTJkZTgw",
+          "alt": "Pladehals Allé, 2450 København, photo 3"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/H1nqaUYv5oDgKOi0GcdRJ3WpzSTTDDL6wZEuUc8c99g/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI1Mi9vcmlnaW5hbC8zMzM5NTI3NzM4Mzc2ZDI5ODI4MDBjMjdhMDhiOWFmODAxYzIwM2Y5",
+          "alt": "Pladehals Allé, 2450 København, photo 4"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/Hg9ZvdRgZxkDFIdXic9LekQXrE6BcARayuDkdBqmJLQ/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI1NS9vcmlnaW5hbC8wZjdkMWY5YmUyM2NiYjBiMWM3NzliZWZiODczMTkwMjgyYjJiMDA0",
+          "alt": "Pladehals Allé, 2450 København, photo 5"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/VeOuXIXHvGFuoyl90c9p9-qJwhB9LTTXRLhVO-jYA-U/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI1Ni9vcmlnaW5hbC9hMzU3NjE2ZWMyM2QyY2QyOTM3ZjRiMWU2ZTE0NTBjZWEyMjFmNDYw",
+          "alt": "Pladehals Allé, 2450 København, photo 6"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/pLD_769w8KnMxrDx18jwcE3s3hti8FwjwU6-bWWlzYg/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI1OS9vcmlnaW5hbC8yMjk5NGExYTI4MzNhNDJiMjUzMWUzODAyODZlYzE3MDc2N2UzN2M3",
+          "alt": "Pladehals Allé, 2450 København, photo 7"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/Q79K4IlWrCjXeaqim0Y48HAj5iMue2HNokS5qPo95g0/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI1Ny9vcmlnaW5hbC9hNzNlZTljYWRhZTFiYTllMTA1Yzk2NjEyNTk3M2EwMWUyMDc1ZGRk",
+          "alt": "Pladehals Allé, 2450 København, photo 8"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/K5TlUhBIvmriFVqF72pHdOI55KyYvou-WUK75ncq3Ks/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI2Mi9vcmlnaW5hbC82YTY4ZmJjZjVmMDhmMzQ4Y2EwZTc0OGJiOTNjM2U1MjYwMmIxZTJi",
+          "alt": "Pladehals Allé, 2450 København, photo 9"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/aFPHerG4qfC-GIy10j_xXGfZWF1SEBtsgMrEQWdBjvM/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI2MS9vcmlnaW5hbC9hOTIxM2UyMjA2MzVlMmNmZjZkMTk4ZGQyNWJkMDFkNDk3ZjhiZmRh",
+          "alt": "Pladehals Allé, 2450 København, photo 10"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/56IPL27Ein33XUUgx2AAPY2EhWVx1-dY-DiZjfwNDQk/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjU2LzY4OC9vcmlnaW5hbC9hODdjM2FhYTMyZmUzN2M0N2E0YTZhNWE5NmRkN2EzYmFhOWNkMGY0",
+          "alt": "Pladehals Allé, 2450 København, photo 11"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/ad1pbwl93d1sirnPws7u4ivDKOsXWJKPaxD0GBJQVZ8/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI2My9vcmlnaW5hbC9iZDFmYzAzZjJmNGJlYWZhODcwYTlhMzkzYWViN2ViNjhhZjVlN2Jk",
+          "alt": "Pladehals Allé, 2450 København, photo 12"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/8DU64VbQWrFkiaaoCux7r5hqMHeRvtBLfNfqsDNEWfw/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI3My9vcmlnaW5hbC9lYTBmNWZmZmRjNDI2ODdhMTBkODM3NDVjZjE1ZDYyZDI1NDgzNDdi",
+          "alt": "Pladehals Allé, 2450 København, photo 13"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/nojBGVYE-hzVfCw7E8Zq9jgU9KwqMqJyUy5Ik9rO48Q/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI1NC9vcmlnaW5hbC9hNDFiMmI4MjNiZDNkODE5YjI4NDZmMTU1OGYzZWE4YjE5MmY2NjI4",
+          "alt": "Pladehals Allé, 2450 København, photo 14"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/Zje15cBBpKwTqTGMKEYb_guYk1rNLbR2gqaL64t5Wg0/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI3Ny9vcmlnaW5hbC82ZjA4MDVlMGQ5OTAyMjU2ZDJmMTdmNmExOWM1NDU2NjhiOTEzODJk",
+          "alt": "Pladehals Allé, 2450 København, photo 15"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/YK_67o3P5eCQjdQ7KwXtcM0nQDJ98s-Ugu7K7vBqMhs/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI2NS9vcmlnaW5hbC8zYWY1ZTRlYmIzNDM2ZmZkMjFlNDE0MDZjMzgzM2Y0Njc4ZjY1MTUy",
+          "alt": "Pladehals Allé, 2450 København, photo 16"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/GAGxRYsGEX2NAaJEPqjyyzySHDpvvNUONIx4TDbnQ94/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI3Mi9vcmlnaW5hbC9lYWZmNmMyODY3ODkwZTBjZjUyZDdiMzkwYWVjZDYzMzQ1MDVmMjZm",
+          "alt": "Pladehals Allé, 2450 København, photo 17"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/WElRa6Mk9qP2HSN8LFllyevRGwj-1LWBXiIPn6COkJU/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI3MC9vcmlnaW5hbC81YWNlYWNjZDNlOTdlYjBhZTI5NmQ4ZDMyNjczNmE2NTgzNTUzN2Uy",
+          "alt": "Pladehals Allé, 2450 København, photo 18"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/xj71NPR4S09-f85v342ZrtlvpZYZPVAb6hNx5BTw-BQ/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI2MC9vcmlnaW5hbC83MjI3NmEyN2ZlZjQxMGFiYTMxODUzYTA4NmEzMDU1NzZhMTZlMjNh",
+          "alt": "Pladehals Allé, 2450 København, photo 19"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/kYUO2n-mDYiOItoUfc0-DXc7iOlOjeFALxev7LF3xDQ/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI1OC9vcmlnaW5hbC9hMGU2OGM0ZmM0MDFjZWM3OTVmMjQyM2JhN2VjZmIyYWEwN2JlNTY5",
+          "alt": "Pladehals Allé, 2450 København, photo 20"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/aOxHVF4AdXwjy5Njr3CTK3iGVMmeKfBt4KJrYUYArCk/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjA0LzI3OC9vcmlnaW5hbC8wOTUwNGJiNzE3YzgwYTgwZWE0ZjhmZjMxNTc1ZjZlZTExNmQyMzUy",
+          "alt": "Pladehals Allé, 2450 København, photo 21"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/kzxqYu21WtPBiqYxhX6PcUDTgN75xchVc91uf8AjEGE/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI3NS9vcmlnaW5hbC9hMmY5YjcxOTM2MDhiZThmZDk3MDM0OTM1MjkyOTYwYzQyY2I3YjZj",
+          "alt": "Pladehals Allé, 2450 København, photo 22"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/iu6yCcm0TtYO6IRcOkMCxpYS8JtzoxDN99tx_q33ydI/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI3OC9vcmlnaW5hbC9kMzJlMzE0YTdkYjk5NDY3ZTE3ZjBkOGZjMjA3ZjMxYzBjNjQwYzhi",
+          "alt": "Pladehals Allé, 2450 København, photo 23"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/-SH23MmMKVktpCZEEWuWZh95UFqhHoOpjbFazXBHY0s/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjA0LzI3Ni9vcmlnaW5hbC9lYzNiOTZiZWNhYzYyODE1MDIwODU2NGRiZGM0ZTYwZjdlOWY1NDRk",
+          "alt": "Pladehals Allé, 2450 København, photo 24"
         }
       ],
       "source": {
         "site": "BoligZonen",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -699,22 +1344,42 @@
       "noteAi": "Travel uses Google Maps’ Indiakaj area pin because no street number is stated; furnished entire apartment for up to three people with two bedrooms; pets are negotiable and smoking/instruments are not allowed; strict cancellation policy and non-refundable Tenant Protection fee.",
       "photos": [
         {
-          "url": "https://housinganywhere.imgix.net/unit_type/1676135/52865e99-580e-4a97-9ad0-a02f1c5a4e28.jpg?ixlib=react-9.8.1&auto=format&fit=crop&w=1247",
+          "url": "https://housinganywhere.imgix.net/unit_type/1676135/52865e99-580e-4a97-9ad0-a02f1c5a4e28.jpg?ixlib=react-9.8.1&auto=format&fit=crop&w=8192",
           "alt": "Indiakaj, København, photo 1"
         },
         {
-          "url": "https://housinganywhere.imgix.net/unit_type/1676135/ed268c5e-00f7-46b4-ac1a-a8130e93706f.jpg?ixlib=react-9.8.1&auto=format&fit=crop&w=1247",
+          "url": "https://housinganywhere.imgix.net/unit_type/1676135/ed268c5e-00f7-46b4-ac1a-a8130e93706f.jpg?ixlib=react-9.8.1&auto=format&fit=crop&q=20&w=120&h=90&dpr=5",
           "alt": "Indiakaj, København, photo 2"
+        },
+        {
+          "url": "https://housinganywhere.imgix.net/unit_type/1676135/0c33fb3b-dc89-46cb-a997-e8d3e12e6d3f.jpg?ixlib=react-9.8.1&auto=format&fit=crop&q=20&w=120&h=90&dpr=5",
+          "alt": "Indiakaj, København, photo 3"
+        },
+        {
+          "url": "https://housinganywhere.imgix.net/unit_type/1676135/e1b13d9c-ace6-4a2a-b9a5-0b3b7fd40079.jpg?ixlib=react-9.8.1&auto=format&fit=crop&q=20&w=120&h=90&dpr=5",
+          "alt": "Indiakaj, København, photo 4"
+        },
+        {
+          "url": "https://housinganywhere.imgix.net/unit_type/1676135/6958f7e7-11d7-464c-9a11-f01726caca72.jpg?ixlib=react-9.8.1&auto=format&fit=crop&q=20&w=120&h=90&dpr=5",
+          "alt": "Indiakaj, København, photo 5"
+        },
+        {
+          "url": "https://housinganywhere.imgix.net/unit_type/1676135/0116b15d-6e5e-446d-9e61-e6389f356eb4.jpg?ixlib=react-9.8.1&auto=format&fit=crop&q=20&w=120&h=90&dpr=5",
+          "alt": "Indiakaj, København, photo 6"
+        },
+        {
+          "url": "https://housinganywhere.imgix.net/unit_type/1676135/2e3bb807-1577-4ca7-a3b4-19022121fbb4.jpg?ixlib=react-9.8.1&auto=format&fit=crop&q=20&w=120&h=90&dpr=5",
+          "alt": "Indiakaj, København, photo 7"
         }
       ],
       "source": {
         "site": "HousingAnywhere",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -765,22 +1430,62 @@
       "noteAi": "Images are from a show flat.",
       "photos": [
         {
-          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/8491be59-9c30-4fb9-bd24-88ee949001cd_Size1920x1080.jpg",
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/8491be59-9c30-4fb9-bd24-88ee949001cd_Size3000x2000.jpg",
           "alt": "Helsinkigade 9, 1. th, 2150 Nordhavn, photo 1"
         },
         {
-          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/28d237cb-3ec4-479d-91a4-769e1246942e_Size1080x720crop.jpg",
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/28d237cb-3ec4-479d-91a4-769e1246942e_Size3000x2000.jpg",
           "alt": "Helsinkigade 9, 1. th, 2150 Nordhavn, photo 2"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/89c83e65-1ba2-47ec-8f45-085ce5379eee_Size3000x2000.jpg",
+          "alt": "Helsinkigade 9, 1. th, 2150 Nordhavn, photo 3"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/2dae7757-3414-4a8f-8fd2-0a09f6f4403d_Size3000x2000.jpg",
+          "alt": "Helsinkigade 9, 1. th, 2150 Nordhavn, photo 4"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/e9df5c63-64ed-435e-a3f9-12ac41699411_Size3000x2000.jpg",
+          "alt": "Helsinkigade 9, 1. th, 2150 Nordhavn, photo 5"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/badd75f1-30ed-4542-9802-333e12b7c060_Size3000x2000.jpg",
+          "alt": "Helsinkigade 9, 1. th, 2150 Nordhavn, photo 6"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/3e742e31-82eb-4071-93f3-9990784b7080_Size3000x2000.jpg",
+          "alt": "Helsinkigade 9, 1. th, 2150 Nordhavn, photo 7"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/f8b873d7-62e4-48c0-aaa1-fd7138965245_Size3000x2000.jpg",
+          "alt": "Helsinkigade 9, 1. th, 2150 Nordhavn, photo 8"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/b97d407a-fc59-4fa1-9029-a010d5c4d2d8_Size3000x2000.jpg",
+          "alt": "Helsinkigade 9, 1. th, 2150 Nordhavn, photo 9"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/56c12324-33b3-4e5e-9b87-ce0d50d6b771_Size3000x2000.jpg",
+          "alt": "Helsinkigade 9, 1. th, 2150 Nordhavn, photo 10"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/2309aa7a-f49d-40e6-92d3-52070a2d77db_Size3000x2000.jpg",
+          "alt": "Helsinkigade 9, 1. th, 2150 Nordhavn, photo 11"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/51035516-18a7-42f6-bf37-caf8b809c848_Size1920x1080.jpg",
+          "alt": "Helsinkigade 9, 1. th, 2150 Nordhavn, photo 12"
         }
       ],
       "source": {
         "site": "EDC",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -837,16 +1542,96 @@
         {
           "url": "https://image-lambda.boligportal.dk/854cef8cd355ad5cd10e7193e8cd73dd?h=590",
           "alt": "Pladehals Allé, 2450 København, photo 2"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/72c2d2c394caca5d1b6893e0c0ab6365?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 3"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/645327eba06db1687cb56040d560f548?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 4"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/8508009f8ff60082fe0ced7476c123f1?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 5"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/da229c7111bc0ba6f6092d729d037097?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 6"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/6b2bf9371e977644c40afb3bd13975a2?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 7"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/296224dfd8578dacadeeb98fd866072c?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 8"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/450fc74c9b8220b1baae6a03b268ca12?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 9"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/35e3edc73fad8e50b60d11fa144bf925?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 10"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/93664b0d4ae9a62d55a98a44a6d3ae89?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 11"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/0e25e975369a273bc4817766cfa4f9a3?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 12"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/f0160129371b8457ad9c8bfbe6187370?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 13"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/bcc7803615d17bd3babad7482402bb9e?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 14"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/0ae38c8f619fedba81bbcb64c0f47981?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 15"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/68806cb85c34783f89ab16539abdfbea?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 16"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/6b3c61402e3c6202f96d0bca9f01efc2?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 17"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/9b6409f00c3a4a8391819e3c47456551?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 18"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/e8015309d01ba70ed9944ad90a253bf4?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 19"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/18da177fec5b9c7f8c1042566e10d995?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 20"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/dff8f87a8efb33f90e4638ec8fbab3f7?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 21"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/fd6c97e39826bc3e971275534b627218?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 22"
         }
       ],
       "source": {
         "site": "BoligPortal",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -897,22 +1682,86 @@
       "noteAi": "Not shareable; a pet permit may be requested; viewing is required before signing; photos are of a comparable unit and minor layout/view differences may occur.",
       "photos": [
         {
-          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F00Bqflbl6NJ3MeSCJdv2%2F8b3f9a3636b9990d5f53e9d85fe7c995%2F20-1324-1042-image-2.jpg&w=3840&q=75",
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F2iViiy2m7CpFVW245eOBtA%2F1775d0f959e5093256e096b48c7a86da%2F20-1324-1042-image-1.jpg&w=3840&q=75",
           "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 1"
         },
         {
-          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F2iViiy2m7CpFVW245eOBtA%2F1775d0f959e5093256e096b48c7a86da%2F20-1324-1042-image-1.jpg&w=1080&q=75",
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F00Bqflbl6NJ3MeSCJdv2%2F8b3f9a3636b9990d5f53e9d85fe7c995%2F20-1324-1042-image-2.jpg&w=3840&q=75",
           "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 2"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F7rQqjyRlAP6QshxyvzWKPi%2F02ecfd896d10ec69b27325960384cdf0%2F20-1324-1042-image-3.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 3"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F6Srz0SPSJrXJuq0X6yuiz1%2F0ce707f41c8d97e895443deb3860e3b5%2F20-1324-1042-image-4.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 4"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F7d3H6lAQLtI2sNH1AfyORV%2Fe92b7575260fa971b6690c0607ffb9b4%2F20-1324-1042-image-5.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 5"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2FTimjhKsoYTw1XbhDXPRC2%2F5497e5884b2c2d304024e8e578f141df%2F20-1324-1042-image-6.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 6"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2FSFKzKokVbKcIFaeOqzXRZ%2F02b5a8586df07863b097f55b072350ae%2F20-1324-1042-image-7.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 7"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F5sgZcVuz99Dk2hikpxY22W%2F35b85c5c25d38d885d2b779ed1b7a3b7%2F20-1324-1042-image-8.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 8"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F1gEgxDvG9UvvS98hWuM3hf%2Fbce4775e6fd31a29b46f73a03f7f6a48%2F20-1324-1042-image-9.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 9"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F4EgUo0sB1QsagjGC2urUDV%2Febf94f8f19b28d1c4a9749ceb298a49c%2F20-1324-1042-image-10.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 10"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F2pVSVVAg8Ug3b7zMTsQw2m%2F859a85ecf5464a5ad5d26852ddae83fb%2F20-1324-1042-image-11.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 11"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F2jsKugDfeickNjXzBH0tkT%2Ff0dffb2e2587fe4f950fb38b85e5c27c%2F20-1324-1042-image-12.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 12"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F6SSfEW0jUZYIwdHIgTuPDa%2Fe4da0c09bbba440c9143de3dd9c2fa92%2F20-1324-1042-image-13.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 13"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F6Hv1si1mOc3pEGL4TrCEdS%2F0c43d24a65b617db5abe18d090255c9d%2F20-1324-1042-image-14.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 14"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F6rNCqTeAmln8m5i8kBGuQC%2F0446dfb77b6ac974f9f45bda3bf2ac2f%2F20-1324-1042-image-15.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 15"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F7gCyeRkbCI0nyLwbV4FUqa%2F4cf037b6e7b8f5fef5ed4b9be7188602%2F20-1324-1042-image-16.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 16"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F5hp1J6sVxcGHKBccAnJfNN%2F59b74e0bef1494b11cc9c26ad8a9382a%2F20-1324-1042-image-17.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 17"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F2CBRdN2qQC19FR1ZHzejQE%2F457ef3a5fd64c790d92dfbb8e07d6187%2F20-1324-1042-image-18.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 18"
         }
       ],
       "source": {
         "site": "Balder",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -969,16 +1818,64 @@
         {
           "url": "https://image-lambda.boligportal.dk/85f9529c3f406176000ebc4260d1f96a?h=590",
           "alt": "Faste Batteri Vej, 2300 København, photo 2"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/a7966af90afd6d2a03a7e3a40869eb45?h=590",
+          "alt": "Faste Batteri Vej, 2300 København, photo 3"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/3ce84569ec1d15d3eb9aea5639be36c8?h=590",
+          "alt": "Faste Batteri Vej, 2300 København, photo 4"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/90a541076799d5a60fb2c22b1c4dc249?h=590",
+          "alt": "Faste Batteri Vej, 2300 København, photo 5"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/0212ababcb48445973e23ae398189d16?h=590",
+          "alt": "Faste Batteri Vej, 2300 København, photo 6"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/dc522ecb13c2232dab2a56ad6959c982?h=590",
+          "alt": "Faste Batteri Vej, 2300 København, photo 7"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/00ca2dd062ca7d9e8a8044f18b06070c?h=590",
+          "alt": "Faste Batteri Vej, 2300 København, photo 8"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/91871ab1d100ed80e4a5cc207f9650b5?h=590",
+          "alt": "Faste Batteri Vej, 2300 København, photo 9"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/b167474d266dacf97490cc8d35fb67fe?h=590",
+          "alt": "Faste Batteri Vej, 2300 København, photo 10"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/ffd06e618fc71349da07d8f203fa65c8?h=590",
+          "alt": "Faste Batteri Vej, 2300 København, photo 11"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/8b37c4fc684998c00b6c5ee7edf65512?h=590",
+          "alt": "Faste Batteri Vej, 2300 København, photo 12"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/c59ac91b2e94227c35dad46b9b082c99?h=590",
+          "alt": "Faste Batteri Vej, 2300 København, photo 13"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/b574ff2b712153b8878063f77f5ca838?h=590",
+          "alt": "Faste Batteri Vej, 2300 København, photo 14"
         }
       ],
       "source": {
         "site": "BoligPortal",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -1035,16 +1932,60 @@
         {
           "url": "https://image-lambda.boligportal.dk/559794d5ae976225fed8b959bfb0e992?h=590",
           "alt": "Dieselvej, 2450 København, photo 2"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/aa25039557b22d3fb9107a97a3fa50b4?h=590",
+          "alt": "Dieselvej, 2450 København, photo 3"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/742bd1103bbcc7f74865798624e372d5?h=590",
+          "alt": "Dieselvej, 2450 København, photo 4"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/9644899df5bcb9a05f20486899a89240?h=590",
+          "alt": "Dieselvej, 2450 København, photo 5"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/a61ce6ae37141f2509cceb60480e92f4?h=590",
+          "alt": "Dieselvej, 2450 København, photo 6"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/415160c76b5a58fd14746312743634e2?h=590",
+          "alt": "Dieselvej, 2450 København, photo 7"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/99202e5ecccdd9dea5b76279c2c6c2dc?h=590",
+          "alt": "Dieselvej, 2450 København, photo 8"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/6489ac7c939b80aca753e89d24d11dca?h=590",
+          "alt": "Dieselvej, 2450 København, photo 9"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/2e86136a58fdb591b2a43e19e7ad6dc5?h=590",
+          "alt": "Dieselvej, 2450 København, photo 10"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/206786a78771ffc2c154ba5295d44281?h=590",
+          "alt": "Dieselvej, 2450 København, photo 11"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/64cc1934959920d8f524c3591119c576?h=590",
+          "alt": "Dieselvej, 2450 København, photo 12"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/46e196f6fb6a1cccb773764356d95e70?h=590",
+          "alt": "Dieselvej, 2450 København, photo 13"
         }
       ],
       "source": {
         "site": "BoligPortal",
-        "checkedAt": "2026-08-14T09:15:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     },
@@ -1096,54 +2037,86 @@
       "photos": [
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/I2choprj14c7Ex4CeTZjCZfxu_-3dDIo1vlIn3k7-9c/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ1MS9vcmlnaW5hbC85MmVkYjU3YzhhYjI2MmE0YjYxY2NkN2E0N2M1YTRkMGZmODAwNmJm",
-          "alt": "Havneholmen apartment, photo 1"
+          "alt": "Havneholmen, 2450 København, photo 1"
         },
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/4S3SIyEl3QxBSABbWZtEUgY5jZaKW7aF6IDrTUpq21s/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ1NC9vcmlnaW5hbC8wMDA2MWE1NDE2ZmMxMDQ3ODNiZGM3MjVhN2YyYTkzOGY1ODc1ZDA3",
-          "alt": "Havneholmen apartment, photo 2"
+          "alt": "Havneholmen, 2450 København, photo 2"
         },
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/GBf-3SOaqyRY8BSwnilGj0Dj6l8d_EHGldbgx671aO4/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ1Ni9vcmlnaW5hbC83NmIxMDk5NTljY2FkOGFkZmQ3ZjBlOGQxOGRlZTAwMGI4MDFhY2Iy",
-          "alt": "Havneholmen apartment, photo 3"
+          "alt": "Havneholmen, 2450 København, photo 3"
         },
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/w6dNFXV68yCEblVA0ab4NuHdp_Q84pYLO6ZKdihmj3E/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ1OC9vcmlnaW5hbC9jMzFhZjY4Zjk2MGZkMWRmNTk2ZmUwNWRhZGNiMzNiYmUwOTRjZWY3",
-          "alt": "Havneholmen apartment, photo 4"
+          "alt": "Havneholmen, 2450 København, photo 4"
         },
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/bzA9E8gAjrN2NpL3k_Q3q4_xm8DqsKCR4NAW5oXSYRc/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ2MC9vcmlnaW5hbC9iMWEzYzljODNkODJiNTcyNzQwZTIxNGMxZjUxZjZiYmY3ODhhMmZm",
-          "alt": "Havneholmen apartment, photo 5"
+          "alt": "Havneholmen, 2450 København, photo 5"
         },
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/F4mMVpTiXrL8OgTyKckTb9h0oGNb4NJEAuCv0Ca2lLY/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ1My9vcmlnaW5hbC9iY2YzZTM3YzZlNGIwYTJlNmQyNzZkYTk2NDg3ZmRhNDNiMWVlNDcw",
-          "alt": "Havneholmen apartment, photo 6"
+          "alt": "Havneholmen, 2450 København, photo 6"
         },
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/kxZwcFd9W9QhPJ8EukM0lrxLtL4JAt5RWBC2Tn6Ugv8/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ2MS9vcmlnaW5hbC9mOTQ4ZDVjMDUxNDdlNzg1YWIzMGM5OWE3NzY2N2FiNWY4MzM1Yjc2",
-          "alt": "Havneholmen apartment, photo 7"
+          "alt": "Havneholmen, 2450 København, photo 7"
         },
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/KB_AhukaaHiQ_4MDq1l7KsCa2fJb4i9xW8vOF11J6dU/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ2OC9vcmlnaW5hbC9jNDZiNWQyM2VmNGJlODY2MmE1MDg3NThlNzViZWQ0YTliZTE2MmI2",
-          "alt": "Havneholmen apartment, photo 8"
+          "alt": "Havneholmen, 2450 København, photo 8"
         },
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/5g_kZqCMIRRc-Wq6RKcZcctZsVZBsC-HrLmFawqT37o/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ1OS9vcmlnaW5hbC83ZGNiODI4OWJjYzBjNGVjNTUwZTQ5MGYzZTY1M2EwOGNjYmU4NTFj",
-          "alt": "Havneholmen apartment, photo 9"
+          "alt": "Havneholmen, 2450 København, photo 9"
         },
         {
           "url": "https://d1lgixgh5eye7s.cloudfront.net/coSZD7lJfJr7vqboROe5QZ1gr_Vwk4ZBQSR4nZ_Zf0o/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ2NS9vcmlnaW5hbC9kYzY5ZTFhMzQ2NTMzZDBjZjhmOTc5YTQzMWNmOGM0NmY3ZWI4MzQ1",
-          "alt": "Havneholmen apartment, photo 10"
+          "alt": "Havneholmen, 2450 København, photo 10"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/VNZbUw5qHzLcfd-8fZua5G4xUlrWcX7CG2thoOxgMPI/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ2NC9vcmlnaW5hbC8zZTk2MDQ5NTZhNjY5OGQ1M2I3OTM3N2E1NzE2MDUyMWEwNjllNjU3",
+          "alt": "Havneholmen, 2450 København, photo 11"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/FWTJrO7BRpXUObSIQIYwkV4s106DGetBLMQkh1w0prA/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ2Mi9vcmlnaW5hbC85Zjk2NDViYzcyYjBmMGRkZGJjNzA4NjYzYWRkODAzMGRiYjk2YjE2",
+          "alt": "Havneholmen, 2450 København, photo 12"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/hVPlfNuzSsfWALKpYUIHf3DJoR5E4itWre_NyoQtJ0Y/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ2My9vcmlnaW5hbC9lYzgyNzZmNGFjZDc5ZWY5NjliZjgzZTQyZTgwODcwNjY5MmY2MzRk",
+          "alt": "Havneholmen, 2450 København, photo 13"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/4xZ4BpSlp_pYzQiFYE-LnkddTyjIRezUixrpr64CsyY/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ2Ny9vcmlnaW5hbC84ZDVjMjZmMTIwYTY1YjA1ZTU4ODA1MjFmMmU3MTM4ZTc5NDRhZmZm",
+          "alt": "Havneholmen, 2450 København, photo 14"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/O0st-VL3ZES400028MMCOW3H7XPSjmSr7g1SE7Zeurs/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ3MS9vcmlnaW5hbC9kOGJlMzJiYTc1OTJkNGQ2ODFiMTU4MzBhNmQ4Y2UwYzc5MDgwZmYz",
+          "alt": "Havneholmen, 2450 København, photo 15"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/NEg89lEQlBlKR9eN_ILbRQmUSNQBjb9CKFTrhrvwFq4/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ2Ni9vcmlnaW5hbC8wNDgzZmJlYjAwMmVlY2IwZjM3ZDZlYTQxZDI3NzI5Njc0MzkzYTU4",
+          "alt": "Havneholmen, 2450 København, photo 16"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/TINVSLR1E_62bkbMTWUr3DDLGETG86aaKq3sTXSKOew/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ3MC9vcmlnaW5hbC83YmI5NzkyY2FjOGZmYjdkOTI5ZTQ4ODkxOTA4ZDcyNjhmMjhiMmY3",
+          "alt": "Havneholmen, 2450 København, photo 17"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/p0SMc3aynEGsmhGDKdiIG5H-uXfgGEnoH1DEwUaZ1ec/rs:fill-down:800:600/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ2OS9vcmlnaW5hbC82ZmY5ZDQyN2MyNzIyN2U5NDhiMmM1NWUyYWViNTU4Zjk3NWZiNGM4",
+          "alt": "Havneholmen, 2450 København, photo 18"
         }
       ],
       "source": {
         "site": "BoligZonen",
         "listingId": "10640414",
-        "checkedAt": "2026-08-14T10:00:00.000Z"
+        "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "syncedAt": "2026-08-14T09:06:17.756Z",
         "presentInMarkdown": true
       }
     }

@@ -32,13 +32,14 @@ Turn each rental ad into one record in `dashboard/data/flats.json`. Interpret pa
 7. Extract the normalized fields below. Use `null` for an unknown scalar, `[]` for no collected photos or outdoor features, and never infer facts from similar listings.
 8. Resolve the most complete stated address or area in a mapping service. Store the returned latitude and longitude, and set `location.approximate` to `true` whenever the ad omits a street number or the pin represents an area.
 9. Calculate metro and commute fields using the travel rules below. Use the same resolved origin for all calculations and links.
-10. Collect up to 18 of the listing's own full-size property-photo URLs in display order. Ignore logos, icons, landlord avatars, maps, and photos from recommended or nearby ads. Do not bypass access controls. Store remote URLs rather than downloading images.
-11. Find an existing record by canonical ad URL, ignoring obvious tracking parameters but retaining parameters needed to identify the listing.
-12. For a new record, generate a stable lowercase ID from the site and listing ID or URL slug. Leave `status` empty and populate `note` only from the user's text.
-13. For an existing record, refresh ad-derived, photo, location, and travel fields while preserving `status` and `note`. If this invocation supplies a new note, append it with `; ` unless the user explicitly asks to replace it.
-14. Update `source.checkedAt` and the root `updatedAt`, then write valid UTF-8 JSON with two-space indentation.
-15. If one URL fails after permitted fallbacks, report it and continue with the rest. Do not fabricate a record from search snippets or similar ads.
-16. Report added, refreshed, and failed counts plus any fields that could not be verified.
+10. Collect the current listing's complete gallery, up to 30 full-size property-photo URLs in display order. Do not stop at the first two visible preview images. Inspect the primary gallery, lazy-loaded `src`/`srcset` values, listing-specific image metadata or structured page data, and an explicit `Show all photos` control when present. Scroll or expand only the current ad's gallery. If the page states a photo count, try to match it up to the cap.
+11. Deduplicate gallery variants by their underlying asset identity, ignoring resize/crop/quality parameters when safe, and retain the largest usable URL. Ignore logos, icons, floor-plan UI, landlord avatars, maps, and photos from recommended or nearby ads. Do not bypass access controls. Store remote URLs rather than downloading images.
+12. Find an existing record by canonical ad URL, ignoring obvious tracking parameters but retaining parameters needed to identify the listing.
+13. For a new record, generate a stable lowercase ID from the site and listing ID or URL slug. Leave `status` empty and populate `note` only from the user's text.
+14. For an existing record, refresh ad-derived, photo, location, and travel fields while preserving `status` and `note`. If this invocation supplies a new note, append it with `; ` unless the user explicitly asks to replace it.
+15. Update `source.checkedAt` and the root `updatedAt`, then write valid UTF-8 JSON with two-space indentation.
+16. If one URL fails after permitted fallbacks, report it and continue with the rest. Do not fabricate a record from search snippets or similar ads.
+17. Report added, refreshed, and failed counts, each saved photo count, and any fields that could not be verified.
 
 ## Availability date rule
 
