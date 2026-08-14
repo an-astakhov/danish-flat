@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14T09:06:17.756Z",
+  "updatedAt": "2026-08-14T09:34:44.638Z",
   "flats": [
     {
       "id": "boligzonen-4-vaerelses-med-rummelig-stue-i-forbindels-0d89262",
@@ -44,7 +44,7 @@
       "prepaidRentDkk": 23000,
       "prepaidRentText": null,
       "rentalPeriod": null,
-      "status": "",
+      "status": "Applied",
       "note": "",
       "noteAi": "Travel uses Google Maps’ street pin because no house number is stated; unfurnished and not shareable; a pet permit may be requested; private basement storage is included.",
       "photos": [

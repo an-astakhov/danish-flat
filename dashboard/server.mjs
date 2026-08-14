@@ -60,10 +60,13 @@ async function updateManualFields(req, res, id) {
     return sendJson(res, 400, { error: error.message });
   }
 
-  if (typeof body.status !== "string" || typeof body.note !== "string") {
-    return sendJson(res, 400, { error: "status and note must both be strings" });
+  const hasStatus = Object.hasOwn(body, "status");
+  const hasNote = Object.hasOwn(body, "note");
+  if (!hasStatus && !hasNote) return sendJson(res, 400, { error: "status or note is required" });
+  if ((hasStatus && typeof body.status !== "string") || (hasNote && typeof body.note !== "string")) {
+    return sendJson(res, 400, { error: "status and note must be strings when supplied" });
   }
-  if (body.status.length > 80 || body.note.length > 4000) {
+  if ((hasStatus && body.status.length > 80) || (hasNote && body.note.length > 4000)) {
     return sendJson(res, 400, { error: "status or note exceeds the allowed length" });
   }
 
@@ -71,8 +74,8 @@ async function updateManualFields(req, res, id) {
   const flat = tracker.flats.find((item) => item.id === id);
   if (!flat) return sendJson(res, 404, { error: "Flat not found" });
 
-  flat.status = body.status.trim();
-  flat.note = body.note.trim();
+  if (hasStatus) flat.status = body.status.trim();
+  if (hasNote) flat.note = body.note.trim();
   tracker.updatedAt = new Date().toISOString();
 
   const temporaryFile = `${DATA_FILE}.tmp`;

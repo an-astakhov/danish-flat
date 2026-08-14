@@ -398,6 +398,40 @@ async function saveReview() {
   }
 }
 
+async function saveStatus() {
+  const flat = state.flats.find((item) => item.id === state.selectedId);
+  if (!flat) return;
+
+  const previousStatus = flat.status || "";
+  const nextStatus = elements.statusEdit.value;
+  if (nextStatus === previousStatus) return;
+
+  const selectedId = flat.id;
+  const noteDraft = elements.noteEdit.value;
+  elements.statusEdit.disabled = true;
+  elements.saveNote.disabled = true;
+  elements.saveMessage.textContent = "Saving statusâ€¦";
+  try {
+    const response = await fetch(`/api/flats/${encodeURIComponent(flat.id)}`, {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ status: nextStatus })
+    });
+    if (!response.ok) throw new Error((await response.json()).error || "Could not save status");
+    const result = await response.json();
+    Object.assign(flat, result.flat);
+    applyFilters();
+    if (state.selectedId === selectedId) elements.noteEdit.value = noteDraft;
+    elements.saveMessage.textContent = "Status saved";
+  } catch (error) {
+    elements.statusEdit.value = previousStatus;
+    elements.saveMessage.textContent = error.message;
+  } finally {
+    elements.statusEdit.disabled = false;
+    elements.saveNote.disabled = false;
+  }
+}
+
 function changePhoto(direction) {
   const flat = state.flats.find((item) => item.id === state.selectedId);
   const count = flat?.photos?.length || 0;
@@ -408,6 +442,7 @@ function changePhoto(direction) {
 
 elements.search.addEventListener("input", applyFilters);
 elements.statusFilter.addEventListener("change", applyFilters);
+elements.statusEdit.addEventListener("change", saveStatus);
 elements.saveNote.addEventListener("click", saveReview);
 elements.photoPrev.addEventListener("click", () => changePhoto(-1));
 elements.photoNext.addEventListener("click", () => changePhoto(1));
