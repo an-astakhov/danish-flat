@@ -1,0 +1,1151 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-14T08:53:41.225Z",
+  "flats": [
+    {
+      "id": "boligzonen-4-vaerelses-med-rummelig-stue-i-forbindels-0d89262",
+      "title": "4 værelses med rummelig stue i forbindelse med køkken",
+      "adUrl": "https://boligzonen.dk/en/rentals/4-vaerelses-med-rummelig-stue-i-forbindelse-med-kokken-57c8d8",
+      "address": "Borgm. Jensens Allé, 2100 København",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Borgm.%20Jensens%20All%C3%A9%2C%202100%20K%C3%B8benhavn",
+      "location": {
+        "lat": 55.706651,
+        "lng": 12.5737119,
+        "approximate": true
+      },
+      "nearestMetro": {
+        "name": "Poul Henningsens Plads",
+        "distanceMeters": 350,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Borgm.%20Jensens%20All%C3%A9%2C%202100%20K%C3%B8benhavn%2C%20Denmark&destination=Poul%20Henningsens%20Plads%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 11,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Borgm.%20Jensens%20All%C3%A9%2C%202100%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 19,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Borgm.%20Jensens%20All%C3%A9%2C%202100%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-10-01",
+      "sqm": 102,
+      "rooms": 4,
+      "roomsLabel": null,
+      "floor": null,
+      "outdoor": [
+        "No"
+      ],
+      "rentDkk": 23000,
+      "utilitiesDkk": 1050,
+      "utilitiesText": null,
+      "depositDkk": 69000,
+      "depositText": null,
+      "prepaidRentDkk": 23000,
+      "prepaidRentText": null,
+      "rentalPeriod": null,
+      "status": "",
+      "note": "",
+      "noteAi": "Travel uses Google Maps’ street pin because no house number is stated; unfurnished and not shareable; a pet permit may be requested; private basement storage is included.",
+      "photos": [
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/d_ucMxTYA6VpVFUUdQEVclKNO2A6ADBGS3lLMtrOSlo/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMyNS9vcmlnaW5hbC9jYjBiNmRiNjQ3MWZkMmYyYzNlNThhZjBhYmMyYzdlZjEyMmEyMjZl",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 1"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/KQZY6a1cxtBHNSQvVBLJ7Pf7_5aztAbh-7Oj1SwgKYg/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjExLzMyMC9vcmlnaW5hbC82ZjM3NDk2MzY4NmQ4ZTEwNzM1ZmE2MjZkMWNjYmNmMDEzZDBlZTdi",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 2"
+        }
+      ],
+      "source": {
+        "site": "BoligZonen",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "boligzonen-stor-4-vaerelses-lejlighed-med-gode-vaerel-e514674",
+      "title": "Stor 4 værelses lejlighed med gode værelser",
+      "adUrl": "https://boligzonen.dk/en/rentals/stor-4-vaerelses-lejlighed-med-gode-vaerelser-1729e7",
+      "address": "Borgm. Jensens Allé, 2100 København",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Borgm.%20Jensens%20All%C3%A9%2C%202100%20K%C3%B8benhavn",
+      "location": {
+        "lat": 55.706651,
+        "lng": 12.5737119,
+        "approximate": true
+      },
+      "nearestMetro": {
+        "name": "Poul Henningsens Plads",
+        "distanceMeters": 350,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Borgm.%20Jensens%20All%C3%A9%2C%202100%20K%C3%B8benhavn%2C%20Denmark&destination=Poul%20Henningsens%20Plads%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 11,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Borgm.%20Jensens%20All%C3%A9%2C%202100%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 19,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Borgm.%20Jensens%20All%C3%A9%2C%202100%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-11-01",
+      "sqm": 102,
+      "rooms": 4,
+      "roomsLabel": null,
+      "floor": null,
+      "outdoor": [
+        "No"
+      ],
+      "rentDkk": 22500,
+      "utilitiesDkk": 1050,
+      "utilitiesText": null,
+      "depositDkk": 67500,
+      "depositText": null,
+      "prepaidRentDkk": 22500,
+      "prepaidRentText": null,
+      "rentalPeriod": null,
+      "status": "",
+      "note": "",
+      "noteAi": "Travel uses Google Maps’ street pin because no house number is stated; unfurnished and not shareable; a pet permit may be requested; private basement storage is included.",
+      "photos": [
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/5w15PcawEc_vWrPcAySZ5-C45NuZQbAtr_LiJxpY3vo/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk1MS9vcmlnaW5hbC9lMWU1YTUyYmYyNWQ3NzFlNWUxNzU3ODg2YTdkY2FmZjczZWM3MWEy",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 1"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/UoiBUNey_vumZYJQWYuAKsxppM6yUUQBPbRVCHm4pEY/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvNDIxLzk1Ni9vcmlnaW5hbC8xY2VkMjQzYTc3YmQ1Nzc2ZjYxNjA4ZWY3M2ZmMzdmZDI1ZGZmYzRm",
+          "alt": "Borgm. Jensens Allé, 2100 København, photo 2"
+        }
+      ],
+      "source": {
+        "site": "BoligZonen",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "home-sag-1770021611-0cabb18",
+      "title": "Ørestads Boulevard 34A, 14. 2., Bella Tower",
+      "adUrl": "https://home.dk/bella-tower/leje/lejligheder/oerestads-boulevard-34a-2300-koebenhavn-s/sag-1770021611/",
+      "address": "Ørestads Boulevard 34A, 14. 2., 2300 København S",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=%C3%98restads%20Boulevard%2034A%2C%2014.%202.%2C%202300%20K%C3%B8benhavn%20S",
+      "location": {
+        "lat": 55.640281,
+        "lng": 12.583101,
+        "approximate": false
+      },
+      "nearestMetro": {
+        "name": "Bella Center",
+        "distanceMeters": 260,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=%C3%98restads%20Boulevard%2034A%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Bella%20Center%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 28,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=%C3%98restads%20Boulevard%2034A%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 21,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=%C3%98restads%20Boulevard%2034A%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-11-01",
+      "sqm": 114,
+      "rooms": 4,
+      "roomsLabel": null,
+      "floor": "14th",
+      "outdoor": [
+        "Private corner balcony"
+      ],
+      "rentDkk": 20450,
+      "utilitiesDkk": 1200,
+      "utilitiesText": null,
+      "depositDkk": 61350,
+      "depositText": null,
+      "prepaidRentDkk": 20450,
+      "prepaidRentText": null,
+      "rentalPeriod": null,
+      "status": "",
+      "note": "",
+      "noteAi": "Shareable and suitable for families; pets permitted on application; show-flat photos and view may vary; an open house is scheduled for 2026-08-16, 13:30–13:45.",
+      "photos": [
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzMjMxLCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/ff7d4e95a9059afff54eaa68b4ea9bab/imageSize/Assets/inline/True?w=1920&quality=80",
+          "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 1"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4MzkzMjI3LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/94fc8a7eb5014e2ace75f29fe0166832/imageSize/Assets/inline/True?width=1982&quality=80",
+          "alt": "Ørestads Boulevard 34A, 14. 2., 2300 København S, photo 2"
+        }
+      ],
+      "source": {
+        "site": "home",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "boligzonen-4-vaerelses-lejlighed-i-kobenhavn-s-204f3d-37c97b2",
+      "title": "4 værelses lejlighed i København S",
+      "adUrl": "https://boligzonen.dk/en/rentals/4-vaerelses-lejlighed-i-kobenhavn-s-204f3d",
+      "address": "Klaksvigsgade, 2300 København",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Klaksvigsgade%2C%202300%20K%C3%B8benhavn",
+      "location": {
+        "lat": 55.667217,
+        "lng": 12.5809278,
+        "approximate": true
+      },
+      "nearestMetro": {
+        "name": "Islands Brygge",
+        "distanceMeters": 650,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Klaksvigsgade%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Islands%20Brygge%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 23,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Klaksvigsgade%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 17,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Klaksvigsgade%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-08-15",
+      "sqm": 103,
+      "rooms": 4,
+      "roomsLabel": null,
+      "floor": "Ground",
+      "outdoor": [
+        "Private terrace"
+      ],
+      "rentDkk": 22500,
+      "utilitiesDkk": 1050,
+      "utilitiesText": null,
+      "depositDkk": 67500,
+      "depositText": null,
+      "prepaidRentDkk": 22500,
+      "prepaidRentText": null,
+      "rentalPeriod": null,
+      "status": "",
+      "note": "1st floor",
+      "noteAi": "Listing describes the flat as ground level; unfurnished and not shareable; pets are not allowed; it has three separate bedrooms and a separate guest toilet.",
+      "photos": [
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/jWAEThhePjZkuyNCeF_M2WWTO4DG8CxmQrTNMMqmuiA/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg1MC9vcmlnaW5hbC82NWVmMmE5NDczYTliOGQ4YWIwMjFiZDc1YjFjNWIxNzFlMmEzYzdk",
+          "alt": "Klaksvigsgade, 2300 København, photo 1"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/hx8rVJF0GJFjH7DTZKr7GoCUGiUu9_lC5XGBfqaAk0I/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvMDA3Lzg1MS9vcmlnaW5hbC8xMmIwNGE3YWY5OTNjNDNmODA4NmZlNWU1YTMxNDE0OGQ3ZDE2MDI4",
+          "alt": "Klaksvigsgade, 2300 København, photo 2"
+        }
+      ],
+      "source": {
+        "site": "BoligZonen",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "1st floor",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "boligzonen-skon-lys-lejlighed-pa-islands-brygge-6aef8-e020f8d",
+      "title": "Skøn lys lejlighed på Islands Brygge",
+      "adUrl": "https://boligzonen.dk/en/rentals/skon-lys-lejlighed-pa-islands-brygge-6aef88",
+      "address": "Jens Otto Krags Gade, 2300 København",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Jens%20Otto%20Krags%20Gade%2C%202300%20K%C3%B8benhavn",
+      "location": {
+        "lat": 55.6581415,
+        "lng": 12.5682692,
+        "approximate": true
+      },
+      "nearestMetro": {
+        "name": "Havneholmen",
+        "distanceMeters": 1000,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Jens%20Otto%20Krags%20Gade%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 31,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Jens%20Otto%20Krags%20Gade%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 14,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Jens%20Otto%20Krags%20Gade%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "Now",
+      "sqm": 103,
+      "rooms": 3,
+      "roomsLabel": null,
+      "floor": "6th",
+      "outdoor": [
+        "Private balcony"
+      ],
+      "rentDkk": 20500,
+      "utilitiesDkk": 1000,
+      "utilitiesText": null,
+      "depositDkk": 61500,
+      "depositText": null,
+      "prepaidRentDkk": null,
+      "prepaidRentText": null,
+      "rentalPeriod": "Over 12 months",
+      "status": "",
+      "note": "",
+      "noteAi": "Unfurnished and not shareable; pets are not allowed; private storage is included and parking may be rented for DKK 1,500/month.",
+      "photos": [
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/qghUxz2jWcRFOlXvN9mxB6S4l1h77lzGRzujEl5v2K0/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY4My9vcmlnaW5hbC84OWU2ODliZDU1NWM4NTlkZGNkNmM5MzcwZmEzMTU0NGRmZDRhY2Qw",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 1"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/8n2QtNzFuurdvtnrr0g8sBuqNrIOc8GzUhDn9m7efR4/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODYvNjYxLzY4NC9vcmlnaW5hbC84OWQ1MTYyOTE0Y2Y3OTViNDQwOTgwMWQ3OGIwZWYyOTUyZjhlZmU3",
+          "alt": "Jens Otto Krags Gade, 2300 København, photo 2"
+        }
+      ],
+      "source": {
+        "site": "BoligZonen",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "boligzonen-4-vaerelses-lejlighed-i-kobenhavn-sv-3b8dd-f39e8a6",
+      "title": "4 værelses lejlighed i København SV",
+      "adUrl": "https://boligzonen.dk/en/rentals/4-vaerelses-lejlighed-i-kobenhavn-sv-3b8ddf",
+      "address": "Alliancevej, 2450 København",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Alliancevej%2C%202450%20K%C3%B8benhavn",
+      "location": {
+        "lat": 55.6483525,
+        "lng": 12.5531673,
+        "approximate": true
+      },
+      "nearestMetro": null,
+      "commute": {
+        "nordhavn": {
+          "minutes": 28,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Alliancevej%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 11,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Alliancevej%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-09-01",
+      "sqm": 113,
+      "rooms": 4,
+      "roomsLabel": null,
+      "floor": null,
+      "outdoor": [
+        "Balcony/terrace"
+      ],
+      "rentDkk": 20950,
+      "utilitiesDkk": 1300,
+      "utilitiesText": null,
+      "depositDkk": 83800,
+      "depositText": null,
+      "prepaidRentDkk": 20950,
+      "prepaidRentText": null,
+      "rentalPeriod": "Unlimited",
+      "status": "",
+      "note": "This one is Sept 1st, so probably no?",
+      "noteAi": "Unfurnished and not shareable; no elevator; property page does not state a nearest metro walking distance.",
+      "photos": [
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/o96JsaWh0L7271-AXFdGJ3Kr2RuCs4u9wsUClSSBNuI/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU1OS9vcmlnaW5hbC80YmFjNGJkOWVkNjE2NDZkODQ2ZTllMGY3YWNjYjcyM2I3YmE3YjRk",
+          "alt": "Alliancevej, 2450 København, photo 1"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/9e85ishuqhUOWS78-NtaZbV7S3wfLLxokFV5TzQVXXM/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODEvNTcwLzU1NS9vcmlnaW5hbC9mYjMyMzNiOWJhZDZmNWY0MWM4MDA5ODEyMjY1MzI4ZGMzMGJkMGVk",
+          "alt": "Alliancevej, 2450 København, photo 2"
+        }
+      ],
+      "source": {
+        "site": "BoligZonen",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "This one is Sept 1st, so probably no?",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "findbolig-95095-3fe7b1e",
+      "title": "4 rooms · Theodore Roosevelts Vej 7, st. th, 2450 København SV",
+      "adUrl": "https://www.findbolig.nu/residence/95095",
+      "address": "Theodore Roosevelts Vej 7, st. th, 2450 København SV",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Theodore%20Roosevelts%20Vej%207%2C%20st.%20th%2C%202450%20K%C3%B8benhavn%20SV",
+      "location": {
+        "lat": 55.659004,
+        "lng": 12.560543,
+        "approximate": false
+      },
+      "nearestMetro": {
+        "name": "Havneholmen",
+        "distanceMeters": 600,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Theodore%20Roosevelts%20Vej%207%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 27,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Theodore%20Roosevelts%20Vej%207%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 8,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Theodore%20Roosevelts%20Vej%207%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-11-01",
+      "sqm": 125,
+      "rooms": 4,
+      "roomsLabel": null,
+      "floor": "Ground",
+      "outdoor": [
+        "Private terrace",
+        "private bathing bridge"
+      ],
+      "rentDkk": 25800,
+      "utilitiesDkk": 900,
+      "utilitiesText": null,
+      "depositDkk": 77400,
+      "depositText": null,
+      "prepaidRentDkk": 25800,
+      "prepaidRentText": null,
+      "rentalPeriod": null,
+      "status": "",
+      "note": "expensive, 2 floors",
+      "noteAi": "Unfurnished and not shareable; pets are not allowed; viewing request is required before the landlord may invite you; photos are of a similar flat and rent may be adjusted.",
+      "photos": [],
+      "source": {
+        "site": "FindBolig",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "expensive, 2 floors",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "boligzonen-3-vaerelses-lejlighed-i-kobenhavn-s-53ad59-c417f18",
+      "title": "3 værelses lejlighed i København S",
+      "adUrl": "https://boligzonen.dk/en/rentals/3-vaerelses-lejlighed-i-kobenhavn-s-53ad59",
+      "address": "Weidekampsgade, 2300 København",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Weidekampsgade%2C%202300%20K%C3%B8benhavn",
+      "location": {
+        "lat": 55.6660269,
+        "lng": 12.5834603,
+        "approximate": true
+      },
+      "nearestMetro": {
+        "name": "Islands Brygge",
+        "distanceMeters": 450,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Weidekampsgade%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Islands%20Brygge%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 22,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Weidekampsgade%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 20,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Weidekampsgade%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-10-01",
+      "sqm": 93,
+      "rooms": 3,
+      "roomsLabel": null,
+      "floor": null,
+      "outdoor": [
+        "Private balcony",
+        "French balconies",
+        "private terrace"
+      ],
+      "rentDkk": 21000,
+      "utilitiesDkk": 900,
+      "utilitiesText": null,
+      "depositDkk": 63000,
+      "depositText": null,
+      "prepaidRentDkk": 21000,
+      "prepaidRentText": null,
+      "rentalPeriod": null,
+      "status": "",
+      "note": "",
+      "noteAi": "Travel uses Google Maps’ street pin because no house number is stated; unfurnished and not shareable; pets are allowed; available to a single tenant or couple.",
+      "photos": [
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/alcS3uLSmrsId4Z2POvTHVSUz4-pZHyDAjMUUIFTooY/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ0Ni9vcmlnaW5hbC8zNmI5ZjJhNDZmOTMyYTlhNzY4YmEyYTk0MWNlNGNmODE2ZGM4MzJj",
+          "alt": "Weidekampsgade, 2300 København, photo 1"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/d_4D3R15V8rnBRCGBf82JCiRJMVvxLwzhM3CyV4KZT8/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODkvNTYwLzQ0My9vcmlnaW5hbC8xNzIyOTM4NjQ1YzhlOTljZGQ0MjFmYjNjZGI4MWYzNmYwYjMwNWU5",
+          "alt": "Weidekampsgade, 2300 København, photo 2"
+        }
+      ],
+      "source": {
+        "site": "BoligZonen",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "boligzonen-4-vaerelses-lejlighed-i-kobenhavn-sv-5f004-c331901",
+      "title": "4 værelses lejlighed i København SV",
+      "adUrl": "https://boligzonen.dk/en/rentals/4-vaerelses-lejlighed-i-kobenhavn-sv-5f0044",
+      "address": "Etta Camerons Vej, 2450 København",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Etta%20Camerons%20Vej%2C%202450%20K%C3%B8benhavn",
+      "location": {
+        "lat": 55.6454881,
+        "lng": 12.5457852,
+        "approximate": true
+      },
+      "nearestMetro": {
+        "name": "Sluseholmen",
+        "distanceMeters": 600,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Etta%20Camerons%20Vej%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Sluseholmen%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 28,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Etta%20Camerons%20Vej%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 11,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Etta%20Camerons%20Vej%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-10-01",
+      "sqm": 138,
+      "rooms": 4,
+      "roomsLabel": null,
+      "floor": null,
+      "outdoor": [
+        "No"
+      ],
+      "rentDkk": 23900,
+      "utilitiesDkk": 1550,
+      "utilitiesText": null,
+      "depositDkk": 71700,
+      "depositText": null,
+      "prepaidRentDkk": 0,
+      "prepaidRentText": null,
+      "rentalPeriod": "Unlimited",
+      "status": "",
+      "note": "",
+      "noteAi": "Unfurnished and not shareable; no elevator or balcony; photos are of a show flat; parking may be rented.",
+      "photos": [
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/gFbq9pc5Heahzlq5c23JrYlp-KzKBSRa_IvtcycL0FY/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvMzM3LzIxNi9vcmlnaW5hbC8xNjNhYzgxYzk5MmNhM2ViYTNlZTQwZjA0Y2RmZDI0MWMxN2ZmYWEw",
+          "alt": "Etta Camerons Vej, 2450 København, photo 1"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/JN6TOFMXcxWu_Edk5AJpPoNxTq_LniPhA6JDrQpZVG8/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODgvMzM3LzIyNC9vcmlnaW5hbC83YWZjYmQzMjFlYmI0YTMzZTliMDJjMjVkZTYwYjJkMGU4ODk5NWJh",
+          "alt": "Etta Camerons Vej, 2450 København, photo 2"
+        }
+      ],
+      "source": {
+        "site": "BoligZonen",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "boligzonen-3-vaerelses-lejlighed-i-kobenhavn-sv-f0dc3-9c2737e",
+      "title": "3 værelses lejlighed i København SV",
+      "adUrl": "https://boligzonen.dk/en/rentals/3-vaerelses-lejlighed-i-kobenhavn-sv-f0dc37",
+      "address": "Pladehals Allé, 2450 København",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pladehals%20All%C3%A9%2C%202450%20K%C3%B8benhavn",
+      "location": {
+        "lat": 55.6565264,
+        "lng": 12.5513416,
+        "approximate": true
+      },
+      "nearestMetro": {
+        "name": "Enghave Brygge",
+        "distanceMeters": 600,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Pladehals%20All%C3%A9%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Enghave%20Brygge%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 26,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Pladehals%20All%C3%A9%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 9,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Pladehals%20All%C3%A9%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-10-01",
+      "sqm": 92,
+      "rooms": 3,
+      "roomsLabel": null,
+      "floor": null,
+      "outdoor": [
+        "Balcony"
+      ],
+      "rentDkk": 17000,
+      "utilitiesDkk": 900,
+      "utilitiesText": null,
+      "depositDkk": 51000,
+      "depositText": null,
+      "prepaidRentDkk": 17000,
+      "prepaidRentText": null,
+      "rentalPeriod": null,
+      "status": "",
+      "note": "",
+      "noteAi": "Unfurnished and not shareable; pets are not allowed; RKI-registered applicants cannot rent; photos are of a show flat; utilities are based on the prior tenant’s use and rent may be adjusted.",
+      "photos": [
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/OTqwRZ-cw24mJwnXKSUJNy97EtXmrjUTYyshm5hI-W4/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI1My9vcmlnaW5hbC8xMDMzNTM1NGQyMDRmYmFkMmNlYWYwZTcwYTI0OTVhMTg5ODQyZWZh",
+          "alt": "Pladehals Allé, 2450 København, photo 1"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/QY0wS0xOSoE1NQGBDbGb6l0V4C4BKsjffEUMEaADl6g/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wNTgvNjAxLzI3MS9vcmlnaW5hbC8zNmQ2Y2Q3ZDdmOTE1MWRjYTQ4NGIxOWEwM2E0MmI3Yzc5YzQzNjI5",
+          "alt": "Pladehals Allé, 2450 København, photo 2"
+        }
+      ],
+      "source": {
+        "site": "BoligZonen",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "housinganywhere-indiakaj-1ae99f0",
+      "title": "Rental · Indiakaj, København",
+      "adUrl": "https://housinganywhere.com/room/ut1676135/dk/K%C3%B8benhavn/indiakaj?bLat=55.674183&lLng=12.562197&rLng=12.613472&tLat=55.707393&view=halfMap",
+      "address": "Indiakaj, København",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Indiakaj%2C%20K%C3%B8benhavn",
+      "location": {
+        "lat": 55.6952984,
+        "lng": 12.5966324,
+        "approximate": true
+      },
+      "nearestMetro": {
+        "name": "Østerport",
+        "distanceMeters": 1000,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Indiakaj%2C%202100%20K%C3%B8benhavn%2C%20Denmark&destination=%C3%98sterport%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 12,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Indiakaj%2C%202100%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 20,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Indiakaj%2C%202100%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": null,
+      "sqm": 95,
+      "rooms": null,
+      "roomsLabel": null,
+      "floor": null,
+      "outdoor": [
+        "Private garden"
+      ],
+      "rentDkk": 26000,
+      "utilitiesDkk": null,
+      "utilitiesText": "Included (bills)",
+      "depositDkk": null,
+      "depositText": "Deposit required (amount not stated)",
+      "prepaidRentDkk": null,
+      "prepaidRentText": null,
+      "rentalPeriod": null,
+      "status": "",
+      "note": "",
+      "noteAi": "Travel uses Google Maps’ Indiakaj area pin because no street number is stated; furnished entire apartment for up to three people with two bedrooms; pets are negotiable and smoking/instruments are not allowed; strict cancellation policy and non-refundable Tenant Protection fee.",
+      "photos": [
+        {
+          "url": "https://housinganywhere.imgix.net/unit_type/1676135/52865e99-580e-4a97-9ad0-a02f1c5a4e28.jpg?ixlib=react-9.8.1&auto=format&fit=crop&w=1247",
+          "alt": "Indiakaj, København, photo 1"
+        },
+        {
+          "url": "https://housinganywhere.imgix.net/unit_type/1676135/ed268c5e-00f7-46b4-ac1a-a8130e93706f.jpg?ixlib=react-9.8.1&auto=format&fit=crop&w=1247",
+          "alt": "Indiakaj, København, photo 2"
+        }
+      ],
+      "source": {
+        "site": "HousingAnywhere",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "edc-11809663-550095f",
+      "title": "Helsinkigade 9, 1. th · Nordhavn",
+      "adUrl": "https://www.edc.dk/leje/lejlighed/2150-nordhavn/helsinkigade-9-1-th/11809663/",
+      "address": "Helsinkigade 9, 1. th, 2150 Nordhavn",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Helsinkigade%209%2C%201.%20th%2C%202150%20Nordhavn",
+      "location": {
+        "lat": 55.70869,
+        "lng": 12.594393,
+        "approximate": false
+      },
+      "nearestMetro": {
+        "name": "Orientkaj",
+        "distanceMeters": 400,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Helsinkigade%209%2C%202150%20K%C3%B8benhavn%2C%20Denmark&destination=Orientkaj%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 10,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Helsinkigade%209%2C%202150%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 16,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Helsinkigade%209%2C%202150%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-12-01",
+      "sqm": 109,
+      "rooms": null,
+      "roomsLabel": "4/3",
+      "floor": "1st",
+      "outdoor": [
+        "Balcony/terrace"
+      ],
+      "rentDkk": 26000,
+      "utilitiesDkk": 1200,
+      "utilitiesText": null,
+      "depositDkk": 78000,
+      "depositText": null,
+      "prepaidRentDkk": 26000,
+      "prepaidRentText": null,
+      "rentalPeriod": "Unlimited",
+      "status": "",
+      "note": "",
+      "noteAi": "Images are from a show flat.",
+      "photos": [
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/8491be59-9c30-4fb9-bd24-88ee949001cd_Size1920x1080.jpg",
+          "alt": "Helsinkigade 9, 1. th, 2150 Nordhavn, photo 1"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/30/28d237cb-3ec4-479d-91a4-769e1246942e_Size1080x720crop.jpg",
+          "alt": "Helsinkigade 9, 1. th, 2150 Nordhavn, photo 2"
+        }
+      ],
+      "source": {
+        "site": "EDC",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "boligportal-92m2-3-vaer-id-5649697-f91fd34",
+      "title": "3 rooms · Pladehals Allé, 2450 København",
+      "adUrl": "https://www.boligportal.dk/lejligheder/k%C3%B8benhavn/92m2-3-vaer-id-5649697",
+      "address": "Pladehals Allé, 2450 København",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Pladehals%20All%C3%A9%2C%202450%20K%C3%B8benhavn",
+      "location": {
+        "lat": 55.6565264,
+        "lng": 12.5513416,
+        "approximate": true
+      },
+      "nearestMetro": {
+        "name": "Enghave Brygge",
+        "distanceMeters": 600,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Pladehals%20All%C3%A9%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Enghave%20Brygge%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 26,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Pladehals%20All%C3%A9%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 9,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Pladehals%20All%C3%A9%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-10-01",
+      "sqm": 92,
+      "rooms": 3,
+      "roomsLabel": null,
+      "floor": "5th",
+      "outdoor": [
+        "Balcony/terrace"
+      ],
+      "rentDkk": 17000,
+      "utilitiesDkk": 900,
+      "utilitiesText": null,
+      "depositDkk": 51000,
+      "depositText": null,
+      "prepaidRentDkk": 17000,
+      "prepaidRentText": null,
+      "rentalPeriod": "Unlimited",
+      "status": "",
+      "note": "",
+      "noteAi": "Unfurnished and not shareable; RKI check required and RKI-registered applicants cannot rent; pictures are of a show flat; utilities are based on the prior tenant’s use and rent may be adjusted.",
+      "photos": [
+        {
+          "url": "https://image-lambda.boligportal.dk/7a73bf2dafb54668ae9502571a453f90?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 1"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/854cef8cd355ad5cd10e7193e8cd73dd?h=590",
+          "alt": "Pladehals Allé, 2450 København, photo 2"
+        }
+      ],
+      "source": {
+        "site": "BoligPortal",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "balder-havneholmen-12-e-1-mf-2450-koebenhavn-sv-d-b9fbf11",
+      "title": "3 rooms · Havneholmen 12 E, 1. mf., 2450 København SV",
+      "adUrl": "https://www.balder.dk/lejeboliger/havneholmen-12-e-1-mf-2450-koebenhavn-sv-danmark",
+      "address": "Havneholmen 12 E, 1. mf., 2450 København SV",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Havneholmen%2012%20E%2C%201.%20mf.%2C%202450%20K%C3%B8benhavn%20SV",
+      "location": {
+        "lat": 55.659922,
+        "lng": 12.55897,
+        "approximate": false
+      },
+      "nearestMetro": {
+        "name": "Havneholmen",
+        "distanceMeters": 190,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Havneholmen%2012%20E%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 20,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Havneholmen%2012%20E%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 0,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Havneholmen%2012%20E%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+        }
+      },
+      "available": "2026-10-01",
+      "sqm": 112,
+      "rooms": 3,
+      "roomsLabel": null,
+      "floor": "1st",
+      "outdoor": [
+        "Corner balcony"
+      ],
+      "rentDkk": 22000,
+      "utilitiesDkk": null,
+      "utilitiesText": null,
+      "depositDkk": null,
+      "depositText": null,
+      "prepaidRentDkk": null,
+      "prepaidRentText": null,
+      "rentalPeriod": null,
+      "status": "",
+      "note": "",
+      "noteAi": "Not shareable; a pet permit may be requested; viewing is required before signing; photos are of a comparable unit and minor layout/view differences may occur.",
+      "photos": [
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F00Bqflbl6NJ3MeSCJdv2%2F8b3f9a3636b9990d5f53e9d85fe7c995%2F20-1324-1042-image-2.jpg&w=3840&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 1"
+        },
+        {
+          "url": "https://www.balder.dk/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F4hbdecvltaip%2F2iViiy2m7CpFVW245eOBtA%2F1775d0f959e5093256e096b48c7a86da%2F20-1324-1042-image-1.jpg&w=1080&q=75",
+          "alt": "Havneholmen 12 E, 1. mf., 2450 København SV, photo 2"
+        }
+      ],
+      "source": {
+        "site": "Balder",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "boligportal-84m2-3-vaer-id-5467281-23805a0",
+      "title": "3 rooms · Faste Batteri Vej, 2300 København",
+      "adUrl": "https://www.boligportal.dk/lejligheder/k%C3%B8benhavn/84m2-3-vaer-id-5467281",
+      "address": "Faste Batteri Vej, 2300 København",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Faste%20Batteri%20Vej%2C%202300%20K%C3%B8benhavn",
+      "location": {
+        "lat": 55.6643972,
+        "lng": 12.5922847,
+        "approximate": true
+      },
+      "nearestMetro": {
+        "name": "Islands Brygge",
+        "distanceMeters": 600,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Faste%20Batteri%20Vej%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Islands%20Brygge%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 25,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Faste%20Batteri%20Vej%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 25,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Faste%20Batteri%20Vej%2C%202300%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-10-01",
+      "sqm": 84,
+      "rooms": 3,
+      "roomsLabel": null,
+      "floor": "6th",
+      "outdoor": [
+        "2 private balconies"
+      ],
+      "rentDkk": 18200,
+      "utilitiesDkk": 950,
+      "utilitiesText": null,
+      "depositDkk": 54600,
+      "depositText": null,
+      "prepaidRentDkk": 18200,
+      "prepaidRentText": null,
+      "rentalPeriod": "Unlimited",
+      "status": "",
+      "note": "",
+      "noteAi": "Unfurnished and not shareable; pets require landlord approval; applicants may not be registered with RKI; images and view may differ from this unit.",
+      "photos": [
+        {
+          "url": "https://image-lambda.boligportal.dk/cbf57e1e59956d29261c6454b199a176?h=590",
+          "alt": "Faste Batteri Vej, 2300 København, photo 1"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/85f9529c3f406176000ebc4260d1f96a?h=590",
+          "alt": "Faste Batteri Vej, 2300 København, photo 2"
+        }
+      ],
+      "source": {
+        "site": "BoligPortal",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "boligportal-92m2-3-vaer-id-5655164-c736ad3",
+      "title": "3 rooms · Dieselvej, 2450 København",
+      "adUrl": "https://www.boligportal.dk/lejligheder/k%C3%B8benhavn/92m2-3-vaer-id-5655164",
+      "address": "Dieselvej, 2450 København",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Dieselvej%2C%202450%20K%C3%B8benhavn",
+      "location": {
+        "lat": 55.6517709,
+        "lng": 12.554923,
+        "approximate": true
+      },
+      "nearestMetro": {
+        "name": "Enghave Brygge",
+        "distanceMeters": 290,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Dieselvej%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Enghave%20Brygge%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 21,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Dieselvej%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 5,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Dieselvej%2C%202450%20K%C3%B8benhavn%2C%20Denmark&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-10-01",
+      "sqm": 92,
+      "rooms": 3,
+      "roomsLabel": null,
+      "floor": "1st",
+      "outdoor": [
+        "Balcony/terrace"
+      ],
+      "rentDkk": 17400,
+      "utilitiesDkk": 1100,
+      "utilitiesText": null,
+      "depositDkk": 52200,
+      "depositText": null,
+      "prepaidRentDkk": 17400,
+      "prepaidRentText": null,
+      "rentalPeriod": "Unlimited; minimum 12 months",
+      "status": "",
+      "note": "",
+      "noteAi": "Unfurnished and not shareable; listing description allows one small pet with the landlord’s consent, while the detail panel says pets are not allowed; photos are of a show flat.",
+      "photos": [
+        {
+          "url": "https://image-lambda.boligportal.dk/93287e9d975433cd4acfc97f52412529?h=590",
+          "alt": "Dieselvej, 2450 København, photo 1"
+        },
+        {
+          "url": "https://image-lambda.boligportal.dk/559794d5ae976225fed8b959bfb0e992?h=590",
+          "alt": "Dieselvej, 2450 København, photo 2"
+        }
+      ],
+      "source": {
+        "site": "BoligPortal",
+        "checkedAt": "2026-08-14T09:15:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "boligzonen-10640414",
+      "title": "3 værelses lejlighed med hyggelig hjørnealtan",
+      "adUrl": "https://boligzonen.dk/en/rentals/3-vaerelses-lejlighed-med-hyggelig-hjornealtan-67c15b",
+      "address": "Havneholmen, 2450 København",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Havneholmen%2C%202450%20K%C3%B8benhavn",
+      "location": {
+        "lat": 55.6599223,
+        "lng": 12.55897,
+        "approximate": true
+      },
+      "nearestMetro": {
+        "name": "Havneholmen",
+        "distanceMeters": 200,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Havneholmen%2C%202450%20K%C3%B8benhavn&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 20,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Havneholmen%2C%202450%20K%C3%B8benhavn&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 0,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Havneholmen%2C%202450%20K%C3%B8benhavn&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+        }
+      },
+      "available": "2026-10-01",
+      "sqm": 112,
+      "rooms": 3,
+      "roomsLabel": null,
+      "floor": null,
+      "outdoor": [
+        "Balcony"
+      ],
+      "rentDkk": 22000,
+      "utilitiesDkk": 1050,
+      "utilitiesText": null,
+      "depositDkk": 66000,
+      "depositText": null,
+      "prepaidRentDkk": 22000,
+      "prepaidRentText": null,
+      "rentalPeriod": null,
+      "status": "",
+      "note": "",
+      "noteAi": "Travel estimates use Google Maps' area pin because the ad omits a street number; pets require approval; unfurnished and not shareable; floor plan has no measurements, so bring measuring equipment to the viewing.",
+      "photos": [
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/I2choprj14c7Ex4CeTZjCZfxu_-3dDIo1vlIn3k7-9c/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ1MS9vcmlnaW5hbC85MmVkYjU3YzhhYjI2MmE0YjYxY2NkN2E0N2M1YTRkMGZmODAwNmJm",
+          "alt": "Havneholmen apartment, photo 1"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/4S3SIyEl3QxBSABbWZtEUgY5jZaKW7aF6IDrTUpq21s/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ1NC9vcmlnaW5hbC8wMDA2MWE1NDE2ZmMxMDQ3ODNiZGM3MjVhN2YyYTkzOGY1ODc1ZDA3",
+          "alt": "Havneholmen apartment, photo 2"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/GBf-3SOaqyRY8BSwnilGj0Dj6l8d_EHGldbgx671aO4/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ1Ni9vcmlnaW5hbC83NmIxMDk5NTljY2FkOGFkZmQ3ZjBlOGQxOGRlZTAwMGI4MDFhY2Iy",
+          "alt": "Havneholmen apartment, photo 3"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/w6dNFXV68yCEblVA0ab4NuHdp_Q84pYLO6ZKdihmj3E/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ1OC9vcmlnaW5hbC9jMzFhZjY4Zjk2MGZkMWRmNTk2ZmUwNWRhZGNiMzNiYmUwOTRjZWY3",
+          "alt": "Havneholmen apartment, photo 4"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/bzA9E8gAjrN2NpL3k_Q3q4_xm8DqsKCR4NAW5oXSYRc/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ2MC9vcmlnaW5hbC9iMWEzYzljODNkODJiNTcyNzQwZTIxNGMxZjUxZjZiYmY3ODhhMmZm",
+          "alt": "Havneholmen apartment, photo 5"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/F4mMVpTiXrL8OgTyKckTb9h0oGNb4NJEAuCv0Ca2lLY/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ1My9vcmlnaW5hbC9iY2YzZTM3YzZlNGIwYTJlNmQyNzZkYTk2NDg3ZmRhNDNiMWVlNDcw",
+          "alt": "Havneholmen apartment, photo 6"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/kxZwcFd9W9QhPJ8EukM0lrxLtL4JAt5RWBC2Tn6Ugv8/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ2MS9vcmlnaW5hbC9mOTQ4ZDVjMDUxNDdlNzg1YWIzMGM5OWE3NzY2N2FiNWY4MzM1Yjc2",
+          "alt": "Havneholmen apartment, photo 7"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/KB_AhukaaHiQ_4MDq1l7KsCa2fJb4i9xW8vOF11J6dU/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ2OC9vcmlnaW5hbC9jNDZiNWQyM2VmNGJlODY2MmE1MDg3NThlNzViZWQ0YTliZTE2MmI2",
+          "alt": "Havneholmen apartment, photo 8"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/5g_kZqCMIRRc-Wq6RKcZcctZsVZBsC-HrLmFawqT37o/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ1OS9vcmlnaW5hbC83ZGNiODI4OWJjYzBjNGVjNTUwZTQ5MGYzZTY1M2EwOGNjYmU4NTFj",
+          "alt": "Havneholmen apartment, photo 9"
+        },
+        {
+          "url": "https://d1lgixgh5eye7s.cloudfront.net/coSZD7lJfJr7vqboROe5QZ1gr_Vwk4ZBQSR4nZ_Zf0o/rs:fit:3200:1400/g:sm/f:webp/aHR0cHM6Ly9zMy5ldS1jZW50cmFsLTEuYW1hem9uYXdzLmNvbS9ib2xpZ3BhbmRhLXByb2R1Y3Rpb24vYXNzZXRzL2ltYWdlcy8wODQvODE0LzQ2NS9vcmlnaW5hbC9kYzY5ZTFhMzQ2NTMzZDBjZjhmOTc5YTQzMWNmOGM0NmY3ZWI4MzQ1",
+          "alt": "Havneholmen apartment, photo 10"
+        }
+      ],
+      "source": {
+        "site": "BoligZonen",
+        "listingId": "10640414",
+        "checkedAt": "2026-08-14T10:00:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-14T08:53:41.225Z",
+        "presentInMarkdown": true
+      }
+    }
+  ]
+}

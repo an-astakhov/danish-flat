@@ -1,0 +1,91 @@
+{
+  "source": "OpenStreetMap contributors via Overpass, snapshot 2026-08-14",
+  "lines": [
+    {
+      "id": "M1",
+      "color": "#2f9b48",
+      "stations": [
+        { "name": "Vanløse", "lat": 55.6870978, "lng": 12.4924739 },
+        { "name": "Flintholm", "lat": 55.6858288, "lng": 12.4994038 },
+        { "name": "Lindevang", "lat": 55.6834124, "lng": 12.5131634 },
+        { "name": "Fasanvej", "lat": 55.6815576, "lng": 12.5235467 },
+        { "name": "Frederiksberg", "lat": 55.6811562, "lng": 12.5317534 },
+        { "name": "Forum", "lat": 55.6817729, "lng": 12.5525121 },
+        { "name": "Nørreport", "lat": 55.6838629, "lng": 12.5709642 },
+        { "name": "Kongens Nytorv", "lat": 55.6792212, "lng": 12.5851403 },
+        { "name": "Christianshavn", "lat": 55.6720724, "lng": 12.5913169 },
+        { "name": "Islands Brygge", "lat": 55.663418, "lng": 12.5851399 },
+        { "name": "DR Byen", "lat": 55.6557634, "lng": 12.588927 },
+        { "name": "Sundby", "lat": 55.6452602, "lng": 12.585629 },
+        { "name": "Bella Center", "lat": 55.638066, "lng": 12.5828389 },
+        { "name": "Ørestad", "lat": 55.6290111, "lng": 12.5792412 },
+        { "name": "Vestamager", "lat": 55.6193815, "lng": 12.575491 }
+      ]
+    },
+    {
+      "id": "M2",
+      "color": "#f0c419",
+      "stations": [
+        { "name": "Vanløse", "lat": 55.6870978, "lng": 12.4924739 },
+        { "name": "Flintholm", "lat": 55.6858288, "lng": 12.4994038 },
+        { "name": "Lindevang", "lat": 55.6834124, "lng": 12.5131634 },
+        { "name": "Fasanvej", "lat": 55.6815576, "lng": 12.5235467 },
+        { "name": "Frederiksberg", "lat": 55.6811562, "lng": 12.5317534 },
+        { "name": "Forum", "lat": 55.6817729, "lng": 12.5525121 },
+        { "name": "Nørreport", "lat": 55.6838629, "lng": 12.5709642 },
+        { "name": "Kongens Nytorv", "lat": 55.6792212, "lng": 12.5851403 },
+        { "name": "Christianshavn", "lat": 55.6720724, "lng": 12.5913169 },
+        { "name": "Amagerbro", "lat": 55.6633427, "lng": 12.6028748 },
+        { "name": "Lergravsparken", "lat": 55.6622019, "lng": 12.6170786 },
+        { "name": "Øresund", "lat": 55.6614216, "lng": 12.6286533 },
+        { "name": "Amager Strand", "lat": 55.6561241, "lng": 12.6317921 },
+        { "name": "Femøren", "lat": 55.6451749, "lng": 12.6382463 },
+        { "name": "Kastrup", "lat": 55.6357106, "lng": 12.6468748 },
+        { "name": "Lufthavnen", "lat": 55.6309064, "lng": 12.6491179 }
+      ]
+    },
+    {
+      "id": "M3",
+      "color": "#d94a52",
+      "stations": [
+        { "name": "Aksel Møllers Have", "lat": 55.6860312, "lng": 12.5330231 },
+        { "name": "Nuuks Plads", "lat": 55.6884527, "lng": 12.542599 },
+        { "name": "Nørrebros Runddel", "lat": 55.6935309, "lng": 12.5490189 },
+        { "name": "Nørrebro", "lat": 55.7000427, "lng": 12.5380542 },
+        { "name": "Skjolds Plads", "lat": 55.7034653, "lng": 12.5488284 },
+        { "name": "Vibenhus Runddel", "lat": 55.7063512, "lng": 12.5648062 },
+        { "name": "Poul Henningsens Plads", "lat": 55.7094334, "lng": 12.5760927 },
+        { "name": "Trianglen", "lat": 55.6992508, "lng": 12.5754696 },
+        { "name": "Østerport", "lat": 55.6928374, "lng": 12.5858543 },
+        { "name": "Marmorkirken", "lat": 55.6851175, "lng": 12.5890607 },
+        { "name": "Kongens Nytorv", "lat": 55.6800781, "lng": 12.5857923 },
+        { "name": "Gammel Strand", "lat": 55.6776376, "lng": 12.5789039 },
+        { "name": "Rådhuspladsen", "lat": 55.676472, "lng": 12.5681381 },
+        { "name": "København H", "lat": 55.6714463, "lng": 12.5638242 },
+        { "name": "Enghave Plads", "lat": 55.6672727, "lng": 12.546784 },
+        { "name": "Frederiksberg Allé", "lat": 55.6735288, "lng": 12.540686 },
+        { "name": "Frederiksberg", "lat": 55.6807422, "lng": 12.532518 },
+        { "name": "Aksel Møllers Have", "lat": 55.6860312, "lng": 12.5330231 }
+      ]
+    },
+    {
+      "id": "M4",
+      "color": "#3d76c5",
+      "stations": [
+        { "name": "Orientkaj", "lat": 55.711861, "lng": 12.5950828 },
+        { "name": "Nordhavn", "lat": 55.7074548, "lng": 12.591489 },
+        { "name": "Østerport", "lat": 55.6928374, "lng": 12.5858543 },
+        { "name": "Marmorkirken", "lat": 55.6851175, "lng": 12.5890607 },
+        { "name": "Kongens Nytorv", "lat": 55.6800781, "lng": 12.5857923 },
+        { "name": "Gammel Strand", "lat": 55.6776376, "lng": 12.5789039 },
+        { "name": "Rådhuspladsen", "lat": 55.676472, "lng": 12.5681381 },
+        { "name": "København H", "lat": 55.6714463, "lng": 12.5638242 },
+        { "name": "Havneholmen", "lat": 55.6609593, "lng": 12.5592515 },
+        { "name": "Enghave Brygge", "lat": 55.6541011, "lng": 12.5564232 },
+        { "name": "Sluseholmen", "lat": 55.6458913, "lng": 12.5444129 },
+        { "name": "Mozarts Plads", "lat": 55.6489932, "lng": 12.5343846 },
+        { "name": "København Syd", "lat": 55.6532651, "lng": 12.5156078 }
+      ]
+    }
+  ]
+}

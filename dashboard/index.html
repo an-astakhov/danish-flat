@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A local dashboard for comparing Copenhagen rental flats.">
+    <title>Copenhagen Flat Finder</title>
+    <link rel="preconnect" href="https://unpkg.com">
+    <link rel="preconnect" href="https://tile.openstreetmap.org">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#" aria-label="Copenhagen Flat Finder home">
+        <span class="brand-mark" aria-hidden="true">C</span>
+        <span>
+          <strong>Copenhagen Flat Finder</strong>
+          <small>Private local shortlist</small>
+        </span>
+      </a>
+      <div class="header-stats" aria-label="Tracker summary">
+        <span><strong id="flat-count">0</strong> homes</span>
+        <span><strong id="average-rent">—</strong> avg. rent</span>
+      </div>
+    </header>
+
+    <main class="app-shell">
+      <aside class="sidebar" aria-label="Rental listings">
+        <div class="sidebar-heading">
+          <div>
+            <p class="eyebrow">Your shortlist</p>
+            <h1>Homes worth a closer look</h1>
+          </div>
+        </div>
+
+        <div class="filters">
+          <label class="search-field">
+            <span class="sr-only">Search listings</span>
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/></svg>
+            <input id="search" type="search" placeholder="Search address or title">
+          </label>
+          <label>
+            <span class="sr-only">Filter by status</span>
+            <select id="status-filter">
+              <option value="">All statuses</option>
+              <option value="Unreviewed">Unreviewed</option>
+              <option value="Interested">Interested</option>
+              <option value="Viewing">Viewing</option>
+              <option value="Applied">Applied</option>
+              <option value="Passed">Passed</option>
+              <option value="Unavailable">Unavailable</option>
+            </select>
+          </label>
+        </div>
+
+        <div id="listing-list" class="listing-list" aria-live="polite"></div>
+      </aside>
+
+      <section class="workspace" aria-label="Map and selected flat">
+        <div class="map-wrap">
+          <div id="map" aria-label="Interactive map of rental listings"></div>
+          <div id="metro-key" class="metro-key" aria-label="Copenhagen Metro line legend"></div>
+          <div class="map-caption"><span class="approx-dot"></span> Approximate area pins are shown with a halo</div>
+        </div>
+
+        <article id="detail" class="detail" hidden>
+          <div class="gallery-panel">
+            <div class="photo-stage">
+              <img id="main-photo" alt="">
+              <div id="photo-empty" class="photo-empty" hidden>No listing photos available</div>
+              <button id="photo-prev" class="photo-nav prev" type="button" aria-label="Previous photo">‹</button>
+              <button id="photo-next" class="photo-nav next" type="button" aria-label="Next photo">›</button>
+              <span id="photo-counter" class="photo-counter"></span>
+            </div>
+            <div id="thumbnails" class="thumbnails" aria-label="Listing photos"></div>
+          </div>
+
+          <div class="detail-body">
+            <div class="detail-heading">
+              <div>
+                <p id="detail-address" class="eyebrow"></p>
+                <h2 id="detail-title"></h2>
+              </div>
+              <a id="ad-link" class="primary-link" target="_blank" rel="noreferrer">Open ad ↗</a>
+            </div>
+
+            <div id="key-facts" class="key-facts"></div>
+
+            <section class="route-section" aria-labelledby="route-heading">
+              <div class="section-title">
+                <h3 id="route-heading">Getting around</h3>
+                <a id="map-link" target="_blank" rel="noreferrer">Open location in Maps ↗</a>
+              </div>
+              <div id="route-cards" class="route-cards"></div>
+            </section>
+
+            <div class="detail-columns">
+              <section aria-labelledby="cost-heading">
+                <h3 id="cost-heading">Monthly & move-in costs</h3>
+                <dl id="cost-list" class="cost-list"></dl>
+              </section>
+
+              <section class="notes-card" aria-labelledby="notes-heading">
+                <h3 id="notes-heading">Review</h3>
+                <label for="status-edit">Status</label>
+                <select id="status-edit">
+                  <option value="">Unreviewed</option>
+                  <option value="Interested">Interested</option>
+                  <option value="Viewing">Viewing</option>
+                  <option value="Applied">Applied</option>
+                  <option value="Passed">Passed</option>
+                  <option value="Unavailable">Unavailable</option>
+                </select>
+                <label for="note-edit">Personal note</label>
+                <textarea id="note-edit" rows="4" maxlength="4000" placeholder="What do you think about this place?"></textarea>
+                <div class="save-row">
+                  <span id="save-message" role="status"></span>
+                  <button id="save-note" type="button">Save review</button>
+                </div>
+              </section>
+            </div>
+
+            <section id="ai-note-section" class="ai-note" aria-labelledby="ai-note-heading">
+              <span aria-hidden="true">✦</span>
+              <div>
+                <h3 id="ai-note-heading">AI watch-outs</h3>
+                <p id="ai-note"></p>
+              </div>
+            </section>
+          </div>
+        </article>
+
+        <div id="empty-state" class="empty-state" hidden>
+          <div aria-hidden="true">⌂</div>
+          <h2>No flats match these filters</h2>
+          <p>Clear the search or add a listing with <code>$check-flat-html</code>.</p>
+        </div>
+      </section>
+    </main>
+
+    <template id="listing-template">
+      <button class="listing-card" type="button">
+        <img class="listing-thumb" alt="">
+        <span class="listing-card-body">
+          <span class="listing-card-top">
+            <strong class="listing-price"></strong>
+            <span class="status-pill"></span>
+          </span>
+          <span class="listing-name"></span>
+          <span class="listing-address"></span>
+          <span class="listing-meta"></span>
+        </span>
+      </button>
+    </template>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>

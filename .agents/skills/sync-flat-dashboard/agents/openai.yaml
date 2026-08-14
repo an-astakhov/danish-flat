@@ -1,0 +1,7 @@
+interface:
+  display_name: "Sync Flat Dashboard"
+  short_description: "Sync Markdown rentals into the map dashboard"
+  default_prompt: "Use $sync-flat-dashboard to enrich and synchronize flats.md into the local dashboard."
+
+policy:
+  allow_implicit_invocation: true

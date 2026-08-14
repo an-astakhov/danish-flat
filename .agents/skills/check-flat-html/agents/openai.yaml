@@ -1,0 +1,7 @@
+interface:
+  display_name: "Check Flat HTML"
+  short_description: "Track rentals in a local map dashboard"
+  default_prompt: "Use $check-flat-html to inspect these rental-ad links and update the local dashboard."
+
+policy:
+  allow_implicit_invocation: true
