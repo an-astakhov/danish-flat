@@ -4,8 +4,13 @@ import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const WRITE = process.argv.includes("--write");
+const ALLOW_CONFLICTS = process.argv.includes("--allow-conflicts");
 const SKILL_DIR = dirname(dirname(fileURLToPath(import.meta.url)));
-const ROOT = resolve(SKILL_DIR, "..", "..", "..");
+const rootArgumentIndex = process.argv.indexOf("--root");
+if (rootArgumentIndex >= 0 && !process.argv[rootArgumentIndex + 1]) throw new Error("--root requires a path");
+const ROOT = rootArgumentIndex >= 0
+  ? resolve(process.argv[rootArgumentIndex + 1])
+  : resolve(SKILL_DIR, "..", "..", "..");
 const MARKDOWN_FILE = join(ROOT, "flats.md");
 const DATA_FILE = join(ROOT, "dashboard", "data", "flats.json");
 
@@ -122,14 +127,16 @@ function resolveManualField(existing, field, markdownValue, conflicts) {
   if (!existing) return markdownValue;
   const syncKey = field === "status" ? "markdownStatus" : "markdownNote";
   const previousMarkdown = existing.sync?.[syncKey];
-  if (previousMarkdown === undefined) return existing[field] || markdownValue;
-  const dashboardChanged = existing[field] !== previousMarkdown;
-  const markdownChanged = markdownValue !== previousMarkdown;
-  if (dashboardChanged && markdownChanged) {
+  const dashboardValue = String(existing[field] || "").trim();
+  if (previousMarkdown === undefined) return dashboardValue || markdownValue;
+  const baseline = String(previousMarkdown || "").trim();
+  const dashboardChanged = dashboardValue !== baseline;
+  const markdownChanged = markdownValue !== baseline;
+  if (dashboardChanged && markdownChanged && dashboardValue !== markdownValue) {
     conflicts.push(field);
-    return existing[field];
+    return dashboardValue;
   }
-  return dashboardChanged ? existing[field] : markdownValue;
+  return dashboardChanged ? dashboardValue : markdownValue;
 }
 
 function markdownRecord(cells, existing, now, conflicts) {
@@ -148,6 +155,7 @@ function markdownRecord(cells, existing, now, conflicts) {
   const prepaidRentDkk = parseMoney(cells[13]);
 
   return {
+    ...(existing || {}),
     id: existing?.id || makeId(ad.url),
     title: existing?.title || fallbackTitle(roomsLabel, address),
     adUrl: ad.url,
@@ -183,6 +191,7 @@ function markdownRecord(cells, existing, now, conflicts) {
       checkedAt: existing?.source?.checkedAt || null
     },
     sync: {
+      ...(existing?.sync || {}),
       markdownStatus,
       markdownNote,
       syncedAt: now,
@@ -194,8 +203,15 @@ function markdownRecord(cells, existing, now, conflicts) {
 const markdown = await readFile(MARKDOWN_FILE, "utf8");
 const tracker = JSON.parse(await readFile(DATA_FILE, "utf8"));
 const rows = markdown.split(/\r?\n/).filter((line) => line.startsWith("| [Ad]"));
-const existingByUrl = new Map(tracker.flats.map((flat) => [canonicalUrl(flat.adUrl), flat]));
+const existingByUrl = new Map();
+const duplicateDashboardUrls = [];
+for (const flat of tracker.flats) {
+  const key = canonicalUrl(flat.adUrl);
+  if (existingByUrl.has(key)) duplicateDashboardUrls.push(flat.adUrl);
+  else existingByUrl.set(key, flat);
+}
 const seen = new Set();
+const matchedExisting = new Set();
 const conflicts = [];
 let added = 0;
 let updated = 0;
@@ -210,6 +226,7 @@ for (const [index, line] of rows.entries()) {
   if (seen.has(key)) continue;
   seen.add(key);
   const existing = existingByUrl.get(key);
+  if (existing) matchedExisting.add(existing);
   const recordConflicts = [];
   synced.push(markdownRecord(cells, existing, now, recordConflicts));
   if (existing) updated += 1;
@@ -217,17 +234,21 @@ for (const [index, line] of rows.entries()) {
   if (recordConflicts.length) conflicts.push({ adUrl: ad.url, fields: recordConflicts });
 }
 
-const retained = tracker.flats.filter((flat) => !seen.has(canonicalUrl(flat.adUrl))).map((flat) => ({
+const retained = tracker.flats.filter((flat) => !matchedExisting.has(flat)).map((flat) => ({
   ...flat,
   sync: flat.sync ? { ...flat.sync, presentInMarkdown: false, syncedAt: now } : flat.sync
 }));
 const nextTracker = { ...tracker, version: 1, updatedAt: now, flats: [...synced, ...retained] };
-const summary = { markdownRows: rows.length, added, updated, retained: retained.length, conflicts };
+const summary = { markdownRows: rows.length, added, updated, retained: retained.length, conflicts, duplicateDashboardUrls };
 
-if (WRITE) {
+if (WRITE && (conflicts.length || duplicateDashboardUrls.length) && !ALLOW_CONFLICTS) {
+  console.error(`Not applied: resolve manual-field conflicts or duplicate dashboard URLs first. ${JSON.stringify(summary)}`);
+  process.exitCode = 2;
+} else if (WRITE) {
   const temporaryFile = `${DATA_FILE}.sync-tmp`;
   await writeFile(temporaryFile, `${JSON.stringify(nextTracker, null, 2)}\n`, "utf8");
   await rename(temporaryFile, DATA_FILE);
+  console.log(`Applied: ${JSON.stringify(summary)}`);
+} else {
+  console.log(`Dry run: ${JSON.stringify(summary)}`);
 }
-
-console.log(`${WRITE ? "Applied" : "Dry run"}: ${JSON.stringify(summary)}`);

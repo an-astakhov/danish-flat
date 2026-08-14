@@ -1,17 +1,20 @@
 # Copenhagen flat tracker
 
-Three complementary Codex skills live in this repository:
+Four complementary Codex skills live in this repository:
 
 - `$check-flat` updates the simple Markdown table in `flats.md`.
 - `$check-flat-html` updates `dashboard/data/flats.json`, which powers the interactive local dashboard.
 - `$sync-flat-dashboard` imports `flats.md` into the dashboard, preserves local reviews, and enriches new records.
+- `$sync-dashboard-markdown` exports dashboard records back to `flats.md` without pruning either tracker.
 
-The two check skills remain independently usable. The sync skill is the explicit, one-way bridge from `flats.md` to the dashboard; it never writes back to Markdown.
+The two check skills remain independently usable. Synchronization is explicit and directional:
 
-The recommended two-step workflow is:
+- After `$check-flat`, invoke `$sync-flat-dashboard`.
+- After `$check-flat-html`, invoke `$sync-dashboard-markdown`.
 
-1. Add links quickly with `$check-flat`.
-2. Invoke `$sync-flat-dashboard` when you want to refresh the interactive dashboard.
+Both sync commands run as dry-runs first, retain records that exist only on the destination side, and refuse to write unresolved `Status` or `Note` conflicts.
+
+This is a safe directional workflow, not an automatic two-way database merge. If the same ad-derived field is edited independently in both files, the direction you invoke is authoritative for that field. Manual `Status` and `Note` edits receive conflict detection because they are expected to change on either side.
 
 ## Run the dashboard
 

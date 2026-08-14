@@ -1,0 +1,8 @@
+interface:
+  display_name: "Sync Dashboard to Markdown"
+  short_description: "Safely export dashboard flats to Markdown"
+  default_prompt: "Use $sync-dashboard-markdown to safely update flats.md from the local dashboard."
+
+policy:
+  allow_implicit_invocation: true
+
