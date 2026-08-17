@@ -1,0 +1,8 @@
+interface:
+  display_name: "Search Copenhagen Flats"
+  short_description: "Find and track new matching Copenhagen rentals"
+  default_prompt: "Use $search-flats to find and add five new rentals matching my saved preferences."
+
+policy:
+  allow_implicit_invocation: true
+

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Replace Listing Website"
+  short_description: "Find a better source for the same rental"
+  default_prompt: "Use $replace-website to replace this paid listing with an exact alternative source."
+
+policy:
+  allow_implicit_invocation: true

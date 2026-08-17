@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14T09:34:44.638Z",
+  "updatedAt": "2026-08-17T07:48:09.386Z",
   "flats": [
     {
       "id": "boligzonen-4-vaerelses-med-rummelig-stue-i-forbindels-0d89262",
@@ -174,9 +174,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
+        "markdownStatus": "Applied",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -222,7 +222,7 @@
       "prepaidRentDkk": 22500,
       "prepaidRentText": null,
       "rentalPeriod": null,
-      "status": "",
+      "status": "Applied",
       "note": "",
       "noteAi": "Travel uses Google Maps’ street pin because no house number is stated; unfurnished and not shareable; a pet permit may be requested; private basement storage is included.",
       "photos": [
@@ -352,9 +352,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
+        "markdownStatus": "Applied",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -400,7 +400,7 @@
       "prepaidRentDkk": 20450,
       "prepaidRentText": null,
       "rentalPeriod": null,
-      "status": "",
+      "status": "Applied",
       "note": "",
       "noteAi": "Shareable and suitable for families; pets permitted on application; show-flat photos and view may vary; an open house is scheduled for 2026-08-16, 13:30–13:45.",
       "photos": [
@@ -466,9 +466,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
+        "markdownStatus": "Applied",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -514,8 +514,8 @@
       "prepaidRentDkk": 22500,
       "prepaidRentText": null,
       "rentalPeriod": null,
-      "status": "",
-      "note": "1st floor",
+      "status": "Passed",
+      "note": "Not a very good flat?",
       "noteAi": "Listing describes the flat as ground level; unfurnished and not shareable; pets are not allowed; it has three separate bedrooms and a separate guest toilet.",
       "photos": [
         {
@@ -600,9 +600,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
-        "markdownNote": "1st floor",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "markdownStatus": "Passed",
+        "markdownNote": "Not a very good flat?",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -648,7 +648,7 @@
       "prepaidRentDkk": null,
       "prepaidRentText": null,
       "rentalPeriod": "Over 12 months",
-      "status": "",
+      "status": "Applied",
       "note": "",
       "noteAi": "Unfurnished and not shareable; pets are not allowed; private storage is included and parking may be rented for DKK 1,500/month.",
       "photos": [
@@ -746,9 +746,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
+        "markdownStatus": "Applied",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -790,7 +790,7 @@
       "prepaidRentDkk": 20950,
       "prepaidRentText": null,
       "rentalPeriod": "Unlimited",
-      "status": "",
+      "status": "Applied",
       "note": "This one is Sept 1st, so probably no?",
       "noteAi": "Unfurnished and not shareable; no elevator; property page does not state a nearest metro walking distance.",
       "photos": [
@@ -864,9 +864,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
+        "markdownStatus": "Applied",
         "markdownNote": "This one is Sept 1st, so probably no?",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -913,7 +913,7 @@
       "prepaidRentDkk": 25800,
       "prepaidRentText": null,
       "rentalPeriod": null,
-      "status": "",
+      "status": "Applied",
       "note": "expensive, 2 floors",
       "noteAi": "Unfurnished and not shareable; pets are not allowed; viewing request is required before the landlord may invite you; photos are of a similar flat and rent may be adjusted.",
       "photos": [
@@ -927,9 +927,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
+        "markdownStatus": "Applied",
         "markdownNote": "expensive, 2 floors",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -977,7 +977,7 @@
       "prepaidRentDkk": 21000,
       "prepaidRentText": null,
       "rentalPeriod": null,
-      "status": "",
+      "status": "Applied",
       "note": "",
       "noteAi": "Travel uses Google Maps’ street pin because no house number is stated; unfurnished and not shareable; pets are allowed; available to a single tenant or couple.",
       "photos": [
@@ -1059,9 +1059,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
+        "markdownStatus": "Applied",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -1107,7 +1107,7 @@
       "prepaidRentDkk": 0,
       "prepaidRentText": null,
       "rentalPeriod": "Unlimited",
-      "status": "",
+      "status": "Applied",
       "note": "",
       "noteAi": "Unfurnished and not shareable; no elevator or balcony; photos are of a show flat; parking may be rented.",
       "photos": [
@@ -1137,9 +1137,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
+        "markdownStatus": "Applied",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -1185,7 +1185,7 @@
       "prepaidRentDkk": 17000,
       "prepaidRentText": null,
       "rentalPeriod": null,
-      "status": "",
+      "status": "Applied",
       "note": "",
       "noteAi": "Unfurnished and not shareable; pets are not allowed; RKI-registered applicants cannot rent; photos are of a show flat; utilities are based on the prior tenant’s use and rent may be adjusted.",
       "photos": [
@@ -1291,9 +1291,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
+        "markdownStatus": "Applied",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -1339,7 +1339,7 @@
       "prepaidRentDkk": null,
       "prepaidRentText": null,
       "rentalPeriod": null,
-      "status": "",
+      "status": "Interested",
       "note": "",
       "noteAi": "Travel uses Google Maps’ Indiakaj area pin because no street number is stated; furnished entire apartment for up to three people with two bedrooms; pets are negotiable and smoking/instruments are not allowed; strict cancellation policy and non-refundable Tenant Protection fee.",
       "photos": [
@@ -1377,9 +1377,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
+        "markdownStatus": "Interested",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -1425,7 +1425,7 @@
       "prepaidRentDkk": 26000,
       "prepaidRentText": null,
       "rentalPeriod": "Unlimited",
-      "status": "",
+      "status": "Applied",
       "note": "",
       "noteAi": "Images are from a show flat.",
       "photos": [
@@ -1483,9 +1483,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
+        "markdownStatus": "Applied",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -1531,8 +1531,8 @@
       "prepaidRentDkk": 17000,
       "prepaidRentText": null,
       "rentalPeriod": "Unlimited",
-      "status": "",
-      "note": "",
+      "status": "Applied",
+      "note": "The website asks to pay money to contact",
       "noteAi": "Unfurnished and not shareable; RKI check required and RKI-registered applicants cannot rent; pictures are of a show flat; utilities are based on the prior tenant’s use and rent may be adjusted.",
       "photos": [
         {
@@ -1629,9 +1629,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
-        "markdownNote": "",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "markdownStatus": "Applied",
+        "markdownNote": "The website asks to pay money to contact",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -1677,7 +1677,7 @@
       "prepaidRentDkk": null,
       "prepaidRentText": null,
       "rentalPeriod": null,
-      "status": "",
+      "status": "Applied",
       "note": "",
       "noteAi": "Not shareable; a pet permit may be requested; viewing is required before signing; photos are of a comparable unit and minor layout/view differences may occur.",
       "photos": [
@@ -1759,9 +1759,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
+        "markdownStatus": "Applied",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -1807,8 +1807,8 @@
       "prepaidRentDkk": 18200,
       "prepaidRentText": null,
       "rentalPeriod": "Unlimited",
-      "status": "",
-      "note": "",
+      "status": "Applied",
+      "note": "Ordered viewing for another flat in this building: \nhttps://home.dk/gislegaard/leje/lejligheder/faste-batteri-vej-56-1tv-2300-koebenhavn-s/sag-1770021535/\n\nMany other flats.",
       "noteAi": "Unfurnished and not shareable; pets require landlord approval; applicants may not be registered with RKI; images and view may differ from this unit.",
       "photos": [
         {
@@ -1873,9 +1873,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
-        "markdownNote": "",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "markdownStatus": "Applied",
+        "markdownNote": "Ordered viewing for another flat in this building: \nhttps://home.dk/gislegaard/leje/lejligheder/faste-batteri-vej-56-1tv-2300-koebenhavn-s/sag-1770021535/\n\nMany other flats.",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -1921,8 +1921,8 @@
       "prepaidRentDkk": 17400,
       "prepaidRentText": null,
       "rentalPeriod": "Unlimited; minimum 12 months",
-      "status": "",
-      "note": "",
+      "status": "Applied",
+      "note": "The website asks to pay money to contact\nhttps://www.edc.dk/leje/lejlighed/2450-koebenhavn-sv/dieselvej-28-1-tv/11809650/\n\nApplied to another flat in the same building via EDC",
       "noteAi": "Unfurnished and not shareable; listing description allows one small pet with the landlord’s consent, while the detail panel says pets are not allowed; photos are of a show flat.",
       "photos": [
         {
@@ -1983,9 +1983,9 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
-        "markdownStatus": "",
-        "markdownNote": "",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "markdownStatus": "Applied",
+        "markdownNote": "The website asks to pay money to contact\nhttps://www.edc.dk/leje/lejlighed/2450-koebenhavn-sv/dieselvej-28-1-tv/11809650/\n\nApplied to another flat in the same building via EDC",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     },
@@ -2031,8 +2031,8 @@
       "prepaidRentDkk": 22000,
       "prepaidRentText": null,
       "rentalPeriod": null,
-      "status": "",
-      "note": "",
+      "status": "Applied",
+      "note": "Same flat as this one: https://www.balder.dk/lejeboliger/havneholmen-12-e-1-mf-2450-koebenhavn-sv-danmark",
       "noteAi": "Travel estimates use Google Maps' area pin because the ad omits a street number; pets require approval; unfurnished and not shareable; floor plan has no measurements, so bring measuring equipment to the viewing.",
       "photos": [
         {
@@ -2114,9 +2114,425 @@
         "checkedAt": "2026-08-14T09:05:05.287Z"
       },
       "sync": {
+        "markdownStatus": "Applied",
+        "markdownNote": "Same flat as this one: https://www.balder.dk/lejeboliger/havneholmen-12-e-1-mf-2450-koebenhavn-sv-danmark",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "edc-11809631",
+      "title": "Alliancevej 37, 5. th",
+      "adUrl": "https://www.edc.dk/leje/lejlighed/2450-koebenhavn-sv/alliancevej-37-5-th/11809631/",
+      "address": "Alliancevej 37, 5. th, 2450 København SV",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Alliancevej%2037%2C%205.%20th%2C%202450%20K%C3%B8benhavn%20SV",
+      "location": {
+        "lat": 55.648289,
+        "lng": 12.553563,
+        "approximate": false
+      },
+      "nearestMetro": {
+        "name": "Enghave Brygge",
+        "distanceMeters": 800,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Alliancevej%2037%2C%202450%20K%C3%B8benhavn%20SV&destination=Enghave%20Brygge%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 29,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Alliancevej%2037%2C%202450%20K%C3%B8benhavn%20SV&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 12,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Alliancevej%2037%2C%202450%20K%C3%B8benhavn%20SV&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-11-01",
+      "sqm": 94,
+      "rooms": 3,
+      "floor": "5th, elevator access",
+      "outdoor": [
+        "Private balcony/terrace"
+      ],
+      "rentDkk": 18900,
+      "utilitiesDkk": 1100,
+      "depositDkk": 56700,
+      "prepaidRentDkk": 18900,
+      "rentalPeriod": "Unlimited; minimum 12 months",
+      "status": "Applied",
+      "note": "",
+      "noteAi": "Images are of an earlier show flat. One pet is allowed with the landlord's approval; the unit has a basement storage room and optional basement parking.",
+      "photos": [
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/7aad3cfe-206c-4409-8131-4c8822d6ff23_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 1"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/621f31f0-5f89-4af7-9832-51add3482a14_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 2"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/65b15715-dd01-4d86-8987-af626107648f_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 3"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/7d1d84e3-d25c-4bfb-9d91-4924974026dc_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 4"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/ee7f89f5-b548-41a8-9d3a-073b5d861cba_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 5"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/467390c9-fb9c-4afa-8937-d3e5aea3bfe1_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 6"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/46e5eaf4-3a96-4c23-bb6f-9c0b96e0709f_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 7"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/82303e5e-b402-479e-81e3-19d766edec42_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 8"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/5e6f5474-5e46-4369-8aca-7f0c295aa71c_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 9"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/4c795e84-b6ff-4aea-815c-9a4d0918a667_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 10"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/eea635c8-2198-45d7-962d-28b647f65afc_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 11"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/6ee89d0e-5dca-439b-a565-7ac7581af932_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 12"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/2bf62680-4b5b-4184-bd71-bb623444fc58_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 13"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/f40d7cce-b94d-4df1-84d1-47ceb107fbf3_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 14"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/27/5e83916d-76c8-4a10-8379-6f772af5c9a7_Size1920x1080.jpg",
+          "alt": "Alliancevej 37, 5. th, photo 15"
+        }
+      ],
+      "source": {
+        "site": "EDC",
+        "listingId": "11809631",
+        "checkedAt": "2026-08-17T07:09:03.369Z"
+      },
+      "sync": {
+        "markdownStatus": "Applied",
+        "markdownNote": "",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "bolighub-5691297",
+      "title": "Fantastisk 4-værelses Lejlighed",
+      "adUrl": "https://home.dk/teglvaerkskajen/leje/lejligheder/teglholmens-oestkaj-55-1tv-2450-koebenhavn-sv/sag-1770021619",
+      "address": "Teglholmens Østkaj 55, 1. tv., 2450 København SV",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Teglholmens%20%C3%98stkaj%2055%2C%201.%20tv.%2C%202450%20K%C3%B8benhavn%20SV",
+      "location": {
+        "lat": 55.649404,
+        "lng": 12.554103,
+        "approximate": false
+      },
+      "nearestMetro": {
+        "name": "Enghave Brygge",
+        "distanceMeters": 600,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Teglholmens%20%C3%98stkaj%2055%2C%202450%20K%C3%B8benhavn%20SV&destination=Enghave%20Brygge%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 27,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Teglholmens%20%C3%98stkaj%2055%2C%202450%20K%C3%B8benhavn%20SV&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 9,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Teglholmens%20%C3%98stkaj%2055%2C%202450%20K%C3%B8benhavn%20SV&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-11-01",
+      "sqm": 105,
+      "rooms": 4,
+      "floor": "1st, elevator access",
+      "outdoor": [
+        "2 private balconies"
+      ],
+      "rentDkk": 23600,
+      "utilitiesDkk": 1000,
+      "depositDkk": 70800,
+      "prepaidRentDkk": 23600,
+      "rentalPeriod": "Unlimited",
+      "status": "",
+      "note": "",
+      "noteAi": "The page says the images may not be of this exact unit. The plan includes two private balconies, a washing machine, and a dryer.",
+      "photos": [
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4Mzk2MjY3LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/0aca874ea869436407e736cde05c582b/imageSize/Assets/inline/True?w=3840&quality=80",
+          "alt": "Teglholmens Østkaj 55, 1. tv., photo 1"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4Mzk2MjcwLCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/9df472402faa7f94f87b5479026d9c27/imageSize/Assets/inline/True?w=3840&quality=80",
+          "alt": "Teglholmens Østkaj 55, 1. tv., photo 2"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4Mzk2MjYyLCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/a9532e678f6a0249d14da5a338d41cee/imageSize/Assets/inline/True?w=3840&quality=80",
+          "alt": "Teglholmens Østkaj 55, 1. tv., photo 3"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4Mzk2MjYzLCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/e25f51b68a782b3cc03fa0e425591c51/imageSize/Assets/inline/True?w=3840&quality=80",
+          "alt": "Teglholmens Østkaj 55, 1. tv., photo 4"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4Mzk2MjY0LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/18e3476a37aa558ea1d7b46a2166a5ca/imageSize/Assets/inline/True?w=3840&quality=80",
+          "alt": "Teglholmens Østkaj 55, 1. tv., photo 5"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4Mzk2MjY2LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/9b71e5f273653639372d00fdc86aaf25/imageSize/Assets/inline/True?w=3840&quality=80",
+          "alt": "Teglholmens Østkaj 55, 1. tv., photo 6"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4Mzk2MjcxLCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/5503db5170c74560b92693f411bfce64/imageSize/Assets/inline/True?w=3840&quality=80",
+          "alt": "Teglholmens Østkaj 55, 1. tv., photo 7"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4Mzk2MjcyLCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/86dfd0a883f40ae96b795ad4b9d4651a/imageSize/Assets/inline/True?w=3840&quality=80",
+          "alt": "Teglholmens Østkaj 55, 1. tv., photo 8"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4Mzk2MjczLCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/d6813800210ca22518b36409e50c5a85/imageSize/Assets/inline/True?w=3840&quality=80",
+          "alt": "Teglholmens Østkaj 55, 1. tv., photo 9"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4Mzk2MjY4LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/5d151beda6a28d4cfe668a203a82b6d8/imageSize/Assets/inline/True?w=3840&quality=80",
+          "alt": "Teglholmens Østkaj 55, 1. tv., photo 10"
+        },
+        {
+          "url": "https://home.mindworking.eu/api/mediaData/mediaDataMediaPurposeId/SU1lZGlhRGF0YTp7Ik1lZGlhRGF0YUlkIjo4Mzk2MjY5LCJNZWRpYVB1cnBvc2VJZCI6MTN9/imageHash/a7b469a91198b99bfce1e90d61ea5e8f/imageSize/Assets/inline/True?w=3840&quality=80",
+          "alt": "Teglholmens Østkaj 55, 1. tv., photo 11"
+        }
+      ],
+      "source": {
+        "site": "home.dk",
+        "listingId": "1770021619",
+        "checkedAt": "2026-08-17T07:44:38.469Z"
+      },
+      "sync": {
         "markdownStatus": "",
         "markdownNote": "",
-        "syncedAt": "2026-08-14T09:06:17.756Z",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "bopaateglholmen-11870062-3",
+      "title": "Dieselvej 10, 3. tv",
+      "adUrl": "https://bopaateglholmen.dk/lejeboliger/dieselvej-10-3-tv/",
+      "address": "Dieselvej 10, 3. tv, 2450 København SV",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=55.650918%2C12.555206",
+      "location": {
+        "lat": 55.650918,
+        "lng": 12.555206,
+        "approximate": false
+      },
+      "nearestMetro": {
+        "name": "Enghave Brygge",
+        "distanceMeters": 400,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=55.650918%2C12.555206&destination=Enghave%20Brygge%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 24,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=55.650918%2C12.555206&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 7,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=55.650918%2C12.555206&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-11-01",
+      "sqm": 103,
+      "rooms": 3,
+      "floor": "3rd",
+      "outdoor": [
+        "Private balcony"
+      ],
+      "rentDkk": 17950,
+      "utilitiesDkk": 1100,
+      "depositDkk": 71800,
+      "prepaidRentDkk": 17950,
+      "rentalPeriod": "Unlimited",
+      "status": "",
+      "note": "",
+      "noteAi": "The gallery shows show flats, not this unit. The stated 71,800 DKK deposit equals four months' rent, although the conditions say three months' deposit plus one month prepaid rent; confirm the move-in breakdown. Rent increases with the net price index.",
+      "photos": [
+        {
+          "url": "https://bopaateglholmen.dk/wp-content/uploads/sites/5/2022/07/7-1-2-scaled.jpg",
+          "alt": "Teglbroen show flat, photo 1"
+        },
+        {
+          "url": "https://bopaateglholmen.dk/wp-content/uploads/sites/5/2022/07/4--scaled.jpg",
+          "alt": "Teglbroen show flat, photo 2"
+        },
+        {
+          "url": "https://bopaateglholmen.dk/wp-content/uploads/sites/5/2022/07/8-1-1-scaled.jpg",
+          "alt": "Teglbroen show flat, photo 3"
+        },
+        {
+          "url": "https://bopaateglholmen.dk/wp-content/uploads/sites/5/2022/07/13--scaled.jpg",
+          "alt": "Teglbroen show flat, photo 4"
+        },
+        {
+          "url": "https://bopaateglholmen.dk/wp-content/uploads/sites/5/2022/07/Teglbroen15--scaled.jpg",
+          "alt": "Teglbroen show flat, photo 5"
+        },
+        {
+          "url": "https://bopaateglholmen.dk/wp-content/uploads/sites/5/2022/07/12-1-1-scaled.jpg",
+          "alt": "Teglbroen show flat, photo 6"
+        },
+        {
+          "url": "https://bopaateglholmen.dk/wp-content/uploads/sites/5/2022/07/6-1-1-scaled.jpg",
+          "alt": "Teglbroen show flat, photo 7"
+        },
+        {
+          "url": "https://bopaateglholmen.dk/wp-content/uploads/sites/5/2022/07/5-1-1-scaled.jpg",
+          "alt": "Teglbroen show flat, photo 8"
+        },
+        {
+          "url": "https://bopaateglholmen.dk/wp-content/uploads/sites/5/2022/07/3-1-1-scaled.jpg",
+          "alt": "Teglbroen show flat, photo 9"
+        },
+        {
+          "url": "https://bopaateglholmen.dk/wp-content/uploads/sites/5/2022/07/18-1-3-scaled.jpg",
+          "alt": "Teglbroen show flat, photo 10"
+        },
+        {
+          "url": "https://bopaateglholmen.dk/wp-content/uploads/sites/5/2022/07/19-1-1-scaled.jpg",
+          "alt": "Teglbroen show flat, photo 11"
+        },
+        {
+          "url": "https://bopaateglholmen.dk/wp-content/uploads/sites/5/2022/07/9-1-1-scaled.jpg",
+          "alt": "Teglbroen show flat, photo 12"
+        },
+        {
+          "url": "https://bopaateglholmen.dk/wp-content/uploads/sites/5/2022/07/11-1-1-scaled.jpg",
+          "alt": "Teglbroen show flat, photo 13"
+        },
+        {
+          "url": "https://bopaateglholmen.dk/wp-content/uploads/sites/5/2022/07/14--scaled.jpg",
+          "alt": "Teglbroen show flat, photo 14"
+        }
+      ],
+      "source": {
+        "site": "Bo på Teglholmen",
+        "listingId": "11870062-3",
+        "checkedAt": "2026-08-17T07:14:40.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
+        "presentInMarkdown": true
+      }
+    },
+    {
+      "id": "edc-11809553",
+      "title": "Ved Stigbordene 35, st. tv",
+      "adUrl": "https://www.edc.dk/leje/lejlighed/2450-koebenhavn-sv/ved-stigbordene-35-st-tv/11809553/",
+      "address": "Ved Stigbordene 35, st. tv, 2450 København SV",
+      "mapUrl": "https://www.google.com/maps/search/?api=1&query=Ved%20Stigbordene%2035%2C%202450%20K%C3%B8benhavn%20SV",
+      "location": {
+        "lat": 55.644067,
+        "lng": 12.54946,
+        "approximate": false
+      },
+      "nearestMetro": {
+        "name": "Sluseholmen",
+        "distanceMeters": 600,
+        "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Ved%20Stigbordene%2035%2C%202450%20K%C3%B8benhavn%20SV&destination=Sluseholmen%20Metro%20Station%2C%20Copenhagen&travelmode=walking"
+      },
+      "commute": {
+        "nordhavn": {
+          "minutes": 29,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Ved%20Stigbordene%2035%2C%202450%20K%C3%B8benhavn%20SV&destination=Nordhavn%20Station%2C%20Copenhagen&travelmode=transit"
+        },
+        "havneholmen": {
+          "minutes": 12,
+          "mapsUrl": "https://www.google.com/maps/dir/?api=1&origin=Ved%20Stigbordene%2035%2C%202450%20K%C3%B8benhavn%20SV&destination=Havneholmen%20Metro%20Station%2C%20Copenhagen&travelmode=transit"
+        }
+      },
+      "available": "2026-10-01",
+      "sqm": 98,
+      "rooms": 3,
+      "floor": "Ground floor, elevator access",
+      "outdoor": [
+        "Balcony/terrace"
+      ],
+      "rentDkk": 18400,
+      "utilitiesDkk": 1100,
+      "depositDkk": 55200,
+      "prepaidRentDkk": 0,
+      "rentalPeriod": "Unlimited",
+      "status": "",
+      "note": "",
+      "noteAi": "Images are from a show flat. Paid parking may be available.",
+      "photos": [
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/08/2f1da5f4-ed90-4520-9438-4edc69b513d9_Size1920x1080.jpg",
+          "alt": "Ved Stigbordene 35, st. tv, photo 1"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/08/c1f20903-7507-4e62-9428-2292bb6dd501_Size1920x1080.jpg",
+          "alt": "Ved Stigbordene 35, st. tv, photo 2"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/08/0a0c94a9-3a2f-40ae-9642-997b5b3fbd99_Size1920x1080.jpg",
+          "alt": "Ved Stigbordene 35, st. tv, photo 3"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/08/6c125797-6833-490d-9b0b-5f973ad533f7_Size1920x1080.jpg",
+          "alt": "Ved Stigbordene 35, st. tv, photo 4"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/08/bd6ae16d-4484-47ad-b701-fd86775f0bc6_Size1920x1080.jpg",
+          "alt": "Ved Stigbordene 35, st. tv, photo 5"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/08/385a9eb5-c8d2-43e7-a820-65a80194dc91_Size1920x1080.jpg",
+          "alt": "Ved Stigbordene 35, st. tv, photo 6"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/08/fae7f739-6da0-4c51-afe4-c0364c0b8d5f_Size1920x1080.jpg",
+          "alt": "Ved Stigbordene 35, st. tv, photo 7"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/08/98c403bf-accb-4dac-989d-2ce829aa317b_Size1920x1080.jpg",
+          "alt": "Ved Stigbordene 35, st. tv, photo 8"
+        },
+        {
+          "url": "https://billeder.edc.dk/edcmedia/2026/07-July/08/f9bc99c0-f0e1-45b7-b556-c18afa302f35_Size1920x1080.jpg",
+          "alt": "Ved Stigbordene 35, st. tv, photo 9"
+        }
+      ],
+      "source": {
+        "site": "EDC",
+        "listingId": "11809553",
+        "checkedAt": "2026-08-17T07:17:00.000Z"
+      },
+      "sync": {
+        "markdownStatus": "",
+        "markdownNote": "",
+        "syncedAt": "2026-08-17T07:48:09.386Z",
         "presentInMarkdown": true
       }
     }

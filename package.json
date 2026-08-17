@@ -4,6 +4,9 @@
   "private": true,
   "scripts": {
     "dashboard": "node dashboard/server.mjs",
-    "test:dashboard": "node dashboard/test-status-save.mjs"
+    "flat-index": "node .agents/skills/search-flats/scripts/tracker-index.mjs --root .",
+    "test:dashboard": "node dashboard/test-status-save.mjs",
+    "test:replace-website": "node .agents/skills/replace-website/scripts/test-replace-url.mjs",
+    "test:search-flats": "node .agents/skills/search-flats/scripts/test-tracker-index.mjs"
   }
 }
