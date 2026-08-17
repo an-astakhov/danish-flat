@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17T07:48:09.386Z",
+  "updatedAt": "2026-08-17T07:56:09.320Z",
   "flats": [
     {
       "id": "boligzonen-4-vaerelses-med-rummelig-stue-i-forbindels-0d89262",
@@ -2273,7 +2273,7 @@
       "depositDkk": 70800,
       "prepaidRentDkk": 23600,
       "rentalPeriod": "Unlimited",
-      "status": "",
+      "status": "Applied",
       "note": "",
       "noteAi": "The page says the images may not be of this exact unit. The plan includes two private balconies, a washing machine, and a dryer.",
       "photos": [
@@ -2372,7 +2372,7 @@
       "depositDkk": 71800,
       "prepaidRentDkk": 17950,
       "rentalPeriod": "Unlimited",
-      "status": "",
+      "status": "Applied",
       "note": "",
       "noteAi": "The gallery shows show flats, not this unit. The stated 71,800 DKK deposit equals four months' rent, although the conditions say three months' deposit plus one month prepaid rent; confirm the move-in breakdown. Rent increases with the net price index.",
       "photos": [
@@ -2483,7 +2483,7 @@
       "depositDkk": 55200,
       "prepaidRentDkk": 0,
       "rentalPeriod": "Unlimited",
-      "status": "",
+      "status": "Applied",
       "note": "",
       "noteAi": "Images are from a show flat. Paid parking may be available.",
       "photos": [
